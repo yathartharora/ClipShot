@@ -1,0 +1,1612 @@
+Question,Template
+What is this photo taken looking through? <extra_id_0>,The photo taken looking through is [mask].
+What position is this man playing? <extra_id_0>,The man is playing [mask].
+What color is the players shirt? <extra_id_0>,The color of the players shirt is [mask].
+Is this man a professional baseball player? <extra_id_0>,This man is a professional baseball player.
+What color is the snow? <extra_id_0>,The snow is [mask].
+What is the person doing? <extra_id_0>,The person is doing [mask].
+What color is the persons headwear? <extra_id_0>,The persons headwear is [mask].
+What is in the person's hand? <extra_id_0>,The person's hand is [mask].
+Is the dog waiting? <extra_id_0>,The dog is waiting.
+Is the dog looking at a tennis ball or frisbee? <extra_id_0>,The dog is looking at tennis ball.
+Is the sky blue? <extra_id_0>,The sky is blue.
+Is there snow on the mountains? <extra_id_0>,The mountains are snow covered.
+What is the white streak? <extra_id_0>,The white streak is [mask].
+Is the window open? <extra_id_0>,The window is open.
+What color is the toothbrush? <extra_id_0>,The color of the toothbrush is [mask].
+What is the child doing? <extra_id_0>,The child is doing [mask].
+Is she brushing? <extra_id_0>,She is brushing.
+Is the man smiling? <extra_id_0>,The man is smiling.
+What is the business man doing in the picture? <extra_id_0>,The business man is doing [mask].
+Does his tie pair well with his suit? <extra_id_0>,His tie pairs well with his suit.
+Does the man look happy? <extra_id_0>,The man looks happy.
+Is this photo in color? <extra_id_0>,This photo is in color.
+Is the man wearing a plain tie? <extra_id_0>,The man is wearing a plain tie.
+"Judging from the dress, was this taken in a Latin American country?",<BLANK>
+"Judging from the dress, was this taken in a Latin American country? <extra_id_0>",This dress is from Latin America.
+What colors are shown in this picture? <extra_id_0>,The colors are [mask].
+Are the men on the sidewalk? <extra_id_0>,The men are on the sidewalk.
+Was this photo taken recently? <extra_id_0>,This photo was taken recently.
+Does the guy have a tattoo? <extra_id_0>,The guy has a tattoo.
+What is this man riding on? <extra_id_0>,The man is riding on [mask].
+How many tattoos can be seen on this man's body? <extra_id_0>,There are [mask] tattoos.
+What color is his hat? <extra_id_0>,The color of his hat is [mask].
+Is the man's visor providing his face enough protection? <extra_id_0>,The visor is not providing enough protection.
+What color is the jacket? <extra_id_0>,The color of the jacket is [mask].
+Is the man riding on a dirt path? <extra_id_0>,The man is riding on dirt.
+What is the man riding on? <extra_id_0>,The man is riding on [mask].
+What is on the pillow? <extra_id_0>,The pillow is [mask].
+How many pieces of furniture which are used for sleeping are featured in this picture? <extra_id_0>,There are [mask] pieces of furniture.
+Are the walls done in a summery color? <extra_id_0>,The walls are summery.
+Is the curtain patterned? <extra_id_0>,The curtain is patterned.
+What is sitting on the bench? <extra_id_0>,The animal on the bench is [mask].
+Are the windows the same size? <extra_id_0>,The windows are the same size.
+What is this person doing? <extra_id_0>,This person is doing [mask].
+How many people are in this image? <extra_id_0>,There are [mask] people in this image.
+Is there a shadow of a tree in the foreground? <extra_id_0>,The shadow of a tree.
+What is the man doing? <extra_id_0>,The man is doing [mask].
+What color is the sky? <extra_id_0>,The sky is [mask].
+What is the person wearing? <extra_id_0>,The person is wearing [mask].
+Did someone forget his luggage in the snow? <extra_id_0>,This person forgot his luggage.
+What color is his coat? <extra_id_0>,The color of his coat is [mask].
+Is it daytime? <extra_id_0>,It is daytime.
+What is she holding? <extra_id_0>,The woman is holding [mask].
+Is the person wearing a hat? <extra_id_0>,The person is wearing a hat.
+What is the dog riding on? <extra_id_0>,The dog is riding on [mask].
+Is the dog wearing a collar? <extra_id_0>,The dog is wearing a collar.
+Is it a clear day? <extra_id_0>,The sky is clear.
+Is there a body of water here? <extra_id_0>,There is no body of water.
+What is in the water? <extra_id_0>,The water is [mask].
+"What does the green light, on the TV, indicate? <extra_id_0>",The green light is [mask].
+Is the light on? <extra_id_0>,The light is on.
+What room of the house is this? <extra_id_0>,The room of the house is [mask].
+What is the size of the TV? <extra_id_0>,The size of the TV is [mask].
+Is the room messy? <extra_id_0>,The room is messy.
+Is this a TV screen? <extra_id_0>,This is a TV screen.
+How big is the TV?,<BLANK>
+How big is the TV? <extra_id_0>,The TV is big.
+What companion object to the TV can be seen in the bottom right of the picture? <extra_id_0>,The companion object to the TV is [mask].
+What is the small computer on the left called? <extra_id_0>,The computer on the left is [mask].
+What is above the TV? <extra_id_0>,The TV is above [mask].
+What is on the display? <extra_id_0>,The display is [mask].
+Is there a laptop in the image? <extra_id_0>,This laptop is not in the image.
+Is it a monitor or a screen projection? <extra_id_0>,This is a screen projection.
+What is on the TV screen? <extra_id_0>,[mask] is on the TV screen.
+What is the title of the presentation in the picture? <extra_id_0>,The title of the presentation is [mask].
+What color is the bear? <extra_id_0>,The bear is [mask].
+Is the animal a mammal? <extra_id_0>,The animal is a mammal.
+What is this? <extra_id_0>,What is this? What is this?
+Are there rocks in the picture? <extra_id_0>,There are rocks in the picture.
+Has the sheep recently been shaved? <extra_id_0>,The sheep has recently been shaved.
+How many sheeps are this? <extra_id_0>,There are [mask] sheeps.
+Are there three sheep? <extra_id_0>,There are three sheep.
+What is the man playing? <extra_id_0>,The man is playing [mask].
+Is the man having a good time? <extra_id_0>,The man is having a good time.
+What does the man have on his face? <extra_id_0>,The man has [mask] on his face.
+What is in front of the giraffes? <extra_id_0>,The animal in front of the giraffes is [mask].
+What do these giraffes have in common? <extra_id_0>,They have in common [mask].
+Could this photo be from a zoo? <extra_id_0>,This photo is from a zoo.
+Are the animals eating? <extra_id_0>,The animals are eating.
+Where is the giraffe? <extra_id_0>,The giraffe is in [mask].
+Is there a zebra? <extra_id_0>,There is a zebra.
+What is the giraffe standing behind? <extra_id_0>,The giraffe is standing behind [mask].
+Is the giraffe eating the tree? <extra_id_0>,The giraffe is eating the tree.
+Are both giraffes standing? <extra_id_0>,Both giraffes are standing.
+Are they at a zoo? <extra_id_0>,This animal is not at a Zoo.
+What is on the ground next to the giraffe on the right? <extra_id_0>,The ground next to the giraffe is [mask].
+Are some of the trees dead? <extra_id_0>,Some of the trees are dead.
+Are any of the animals eating? <extra_id_0>,No animals are eating.
+Is the giraffe in the shade? <extra_id_0>,The giraffe is in the shade.
+Are these giraffes living free range? <extra_id_0>,These giraffes are free range.
+How many giraffes are there? <extra_id_0>,There are [mask] giraffes.
+Is there a rock near the giraffe? <extra_id_0>,There is a rock near the giraffe.
+How many animals are in this photo? <extra_id_0>,There are [mask] animals in this photo.
+Why is the man on the street? <extra_id_0>,The man is on the street because [mask].
+How is the man sitting?,<BLANK>
+How is the man sitting? <extra_id_0>,The man is sitting because [mask].
+"What does the word in the upper-left corner, behind the window, translate to in English? <extra_id_0>",The word in the upper-left corner is [mask].
+How many people are on the boat? <extra_id_0>,There are [mask] people on the boat.
+What color are the leaves? <extra_id_0>,The color of the leaves is [mask].
+What type of watercraft is that? <extra_id_0>,The watercraft is [mask].
+Where are the two blue coolers? <extra_id_0>,The two blue coolers are in [mask].
+What kind of room is this? <extra_id_0>,The room is [mask].
+Are they moving? <extra_id_0>,They are not moving.
+What color is the umbrella? <extra_id_0>,The color of the umbrella is [mask].
+Is this man angry? <extra_id_0>,This man is angry.
+Which hand holds the umbrella? <extra_id_0>,The [mask] hand holds the umbrella.
+Are there flowers in the vase? <extra_id_0>,There are flowers in the vase.
+What is the vase sitting on? <extra_id_0>,The vase is sitting on [mask].
+Is the sun to the right or left of this flower? <extra_id_0>,The sun is to the left.
+Are the flowers open? <extra_id_0>,The flowers are open.
+What color is the vase? <extra_id_0>,The color of the vase is [mask].
+Are all the flowers white? <extra_id_0>,The flowers are white.
+Is the man standing on both foot? <extra_id_0>,The man is standing on both foot.
+Was this picture likely taken recently? <extra_id_0>,This picture was likely taken recently.
+Do the gentleman's socks match his shoes and belt? <extra_id_0>,The gentleman's socks match his shoes.
+What is the zebra eating? <extra_id_0>,The zebra is eating [mask].
+Are the zebras facing the same direction? <extra_id_0>,The zebras are facing north.
+What is the tree covered with? <extra_id_0>,The tree is covered with [mask].
+Is this a horse? <extra_id_0>,This horse is not a horse.
+What is the animal eating? <extra_id_0>,The animal is eating [mask].
+How old is animal? <extra_id_0>,The animal is [mask] years old.
+Are they drinking wine at the child's party? <extra_id_0>,They are drinking wine.
+Is the man wearing glasses? <extra_id_0>,The man is wearing glasses.
+What is the man holding? <extra_id_0>,The man is holding [mask].
+What is the man cutting? <extra_id_0>,The man is cutting [mask].
+What is the fruit? <extra_id_0>,The fruit is [mask].
+Is this a good dessert? <extra_id_0>,This dessert is not good.
+What is the name of the type of person that would make this food? <extra_id_0>,The name of the type of person is [mask].
+What type of ice cream is on the plate? <extra_id_0>,The ice cream is [mask].
+How many people are wearing shorts in the forefront of this photo? <extra_id_0>,There are [mask] people wearing shorts.
+Is this an indoor or outdoor photo? <extra_id_0>,This photo is an indoor photo.
+Are those kites in the air? <extra_id_0>,Kites are in the air.
+Is this a hot dog? <extra_id_0>,This is a hot dog.
+What color is the napkin? <extra_id_0>,The napkin is [mask].
+Is there ketchup on the hot dog? <extra_id_0>,There is ketchup.
+Has this hot dog been grilled? <extra_id_0>,This hot dog has not been grilled.
+Have you tried a hot dog like this before? <extra_id_0>,This hot dog is delicious.
+What's missing from this hot dog? <extra_id_0>,The hot dog is missing [mask].
+What is the hog dog sitting on? <extra_id_0>,The hog dog is sitting on [mask].
+Is this a toy-sized truck? <extra_id_0>,This truck is toy-sized.
+What is the sky full of? <extra_id_0>,The sky is full of [mask].
+Where are the trucks? <extra_id_0>,The trucks are in [mask].
+What is the color of the carpet? <extra_id_0>,The color of the carpet is [mask].
+Is there a carpet on the floor? <extra_id_0>,The floor is carpeted.
+What color is the refrigerator? <extra_id_0>,The refrigerator is [mask].
+What is this device? <extra_id_0>,The device is [mask].
+Is this plane landing? <extra_id_0>,This plane is not landing.
+What color is the plane? <extra_id_0>,The color of the plane is [mask].
+What shape are the windows on the side of the plane? <extra_id_0>,The shape of the windows is [mask].
+Is the plane taking off? <extra_id_0>,The plane is taking off.
+Are these airliners? <extra_id_0>,These airliners are not airliners.
+How many planes are in the picture? <extra_id_0>,There are [mask] planes.
+Are this cargo planes? <extra_id_0>,This cargo planes are not.
+Is this bear a normal size? <extra_id_0>,This bear is normal size.
+What is the website on the sign? <extra_id_0>,The website on the sign is [mask].
+What is the bear called? <extra_id_0>,The bear is called [mask].
+Is there a flower arrangement on the lawn? <extra_id_0>,There is a flower arrangement.
+What color horse is closer to the camera? <extra_id_0>,The horse is [mask].
+Are they playing polo? <extra_id_0>,They are playing polo.
+How many trees are in this photo? <extra_id_0>,There are [mask] trees in this photo.
+What type of tree is the man standing next to? <extra_id_0>,The tree is [mask].
+Is this man reading a cell phone screen? <extra_id_0>,This man is reading a cell phone screen.
+What pattern is on the pants? <extra_id_0>,The pattern on the pants is [mask].
+What sport is this person playing? <extra_id_0>,The person is playing [mask].
+What is the position of the player behind the batter called? <extra_id_0>,The position of the player behind the batter is [mask].
+What color is the girl's shirt? <extra_id_0>,The color of the girl's shirt is [mask].
+What are they drinking? <extra_id_0>,The drink is [mask].
+What brand of beer is visible? <extra_id_0>,The brand of beer is [mask].
+Where is Brooklyn Avenue? <extra_id_0>,Brooklyn Avenue is in [mask].
+Which direction is Brooklyn Ave? <extra_id_0>,Which direction is Brooklyn Ave?
+Is there a stop sign in the picture? <extra_id_0>,There is no stop sign.
+What logo is on the man's shirt? <extra_id_0>,The logo on the man's shirt is [mask].
+Is the man unhappy? <extra_id_0>,The man is unhappy.
+Are the men going to share the bananas? <extra_id_0>,The men are going to share the bananas.
+What color are the flowers? <extra_id_0>,The color of the flowers is [mask].
+What colors are the flowers? <extra_id_0>,The flowers are [mask].
+How many flowers are painted on the vase? <extra_id_0>,There are [mask] flowers painted.
+Do the painted flowers match the real ones? <extra_id_0>,The painted flowers match the real ones.
+Where is the bird? <extra_id_0>,The bird is in [mask].
+Will the birds go into the water? <extra_id_0>,The birds will not go into the water.
+What direction is the bird looking? <extra_id_0>,The bird is looking in [mask].
+Is this bird afraid of the ledge? <extra_id_0>,This bird is afraid of the ledge.
+What time of day is it? <extra_id_0>,It is [mask] at [mask].
+How many elephants are in the water? <extra_id_0>,There are [mask] elephants in the water.
+How many tails can you see in this picture? <extra_id_0>,There are [mask] tails.
+How many tusks are visible? <extra_id_0>,There are [mask] tusks visible.
+What is this animal? <extra_id_0>,The animal on the beach is [mask].
+What color is the animal? <extra_id_0>,The animal on the beach is [mask].
+What color is the plane? <extra_id_0>,The color of the plane is [mask].
+What type of plane is this? <extra_id_0>,The type of plane is [mask].
+Are the mountains high? <extra_id_0>,The mountains are high.
+What color are the seats? <extra_id_0>,The color of the seats is [mask].
+Is there a person standing in front of the television? <extra_id_0>,This person is not standing.
+Where is the mirror? <extra_id_0>,The mirror is in [mask].
+Is there enough room under the armchairs for a cat to hide? <extra_id_0>,There is enough room.
+Who made the cock? <extra_id_0>,[mask] made the cock.
+Are there numbers on the clock face? <extra_id_0>,There are numbers on the clock face.
+Is there a big tree behind the clock? <extra_id_0>,There is a big tree.
+What is in the picture? <extra_id_0>,The picture is [mask].
+What time is the clock showing? <extra_id_0>,The clock is showing [mask].
+What are the vases sitting on? <extra_id_0>,The vases are sitting on [mask].
+How many trees on the table? <extra_id_0>,There are [mask] trees on the table.
+How many horns are in the picture? <extra_id_0>,There are [mask] horns.
+What color is the middle vase? <extra_id_0>,The color of the middle vase is [mask].
+What is the table made of? <extra_id_0>,The table is made of [mask].
+What kind of trees are on the table? <extra_id_0>,The trees on the table are [mask].
+Is this a wedding? <extra_id_0>,This is a wedding.
+What is the green stuff on this pizza? <extra_id_0>,The green stuff on this pizza is [mask].
+Does the crust look burnt? <extra_id_0>,The crust looks burnt.
+Is it thick or thin crust? <extra_id_0>,This food is thick or thin crust.
+Does this pizza have a deep dish crust? <extra_id_0>,This pizza has a deep dish crust.
+Is the banana freshly peeled? <extra_id_0>,The banana is freshly peeled.
+Is the banana closed? <extra_id_0>,The banana is closed.
+What is the orange thing? <extra_id_0>,The orange thing is [mask].
+Does this photo show train tracks? <extra_id_0>,This photo does not show train tracks.
+Does this train work? <extra_id_0>,This train does not work.
+Is this train headed towards or from the orange building? <extra_id_0>,This train is headed towards the orange building.
+How many Giraffes are in this image? <extra_id_0>,There are [mask] Giraffes.
+What is the giraffe eating? <extra_id_0>,The giraffe is eating [mask].
+Are the giraffes under the trees? <extra_id_0>,The giraffes are under trees.
+Are there 3 elephants? <extra_id_0>,There are 3 elephants.
+Are all of the elephants full grown? <extra_id_0>,All of the elephants are full grown.
+Are the elephants in the jungle? <extra_id_0>,The elephants are in the jungle.
+What is on the woman's neck? <extra_id_0>,The woman's neck is [mask].
+Is the woman eating the pizza? <extra_id_0>,The woman eating the pizza.
+How many stairs are there? <extra_id_0>,There are [mask] stairs.
+Where is the sink located? <extra_id_0>,The sink is located in [mask].
+Where is the soap? <extra_id_0>,The soap is in [mask].
+What color is the window frame? <extra_id_0>,The window frame is [mask].
+What item is folded up and sitting on the edge of the shower stall? <extra_id_0>,The item is [mask].
+What pattern is on the shower curtain? <extra_id_0>,The pattern on the shower curtain is [mask].
+What are the colors of the countertop? <extra_id_0>,The countertop is [mask].
+Are there any reflections in this picture? <extra_id_0>,There are no reflections.
+How many windows are there? <extra_id_0>,There are [mask] windows.
+Is the water on? <extra_id_0>,The water is on.
+Is this photo outdoors? <extra_id_0>,This photo is outdoors.
+How many birds are in the sink? <extra_id_0>,There are [mask] birds in the sink.
+What is the person on the right called? <extra_id_0>,The person on the right is [mask].
+Whose logo is on the official's chair? <extra_id_0>,[mask] is on the official's chair.
+How many tennis players are in the photo? <extra_id_0>,There are [mask] tennis players.
+Are the clock and owl made in the same artistic fashion? <extra_id_0>,The clock and owl are made.
+Is that owl a candle? <extra_id_0>,This owl is a candle.
+What time does the clock say? <extra_id_0>,The clock says [mask].
+Does this planes tail have 4 colors? <extra_id_0>,This planes tail has 4 colors.
+Is this plane landing? <extra_id_0>,This plane is not landing.
+Is this plane taking off? <extra_id_0>,This plane is taking off.
+What is the last letter over the plane? <extra_id_0>,The last letter over the plane is [mask].
+Are these wings strong? <extra_id_0>,These wings are strong.
+Is that a bicycle? <extra_id_0>,This is a bicycle.
+What is the number on the mailbox? <extra_id_0>,The mailbox number is [mask].
+What is this person wearing on head? <extra_id_0>,The person is wearing [mask].
+Is this a cow farm? <extra_id_0>,This is a cow farm.
+What are the animals doing? <extra_id_0>,The animals are doing [mask].
+What breed of livestock is shown? <extra_id_0>,The breed of livestock is [mask].
+How many black sheep are there? <extra_id_0>,There are [mask] black sheep.
+What game would you play when you saw this as a child? <extra_id_0>,The game would be [mask].
+Where is the human? <extra_id_0>,The human is in [mask].
+Is this a prairie? <extra_id_0>,This is a prairie.
+Is there a village in the background? <extra_id_0>,The village is in the background.
+What color is the sign? <extra_id_0>,The color of the sign is [mask].
+Would you be able to find a mosque in this city? <extra_id_0>,This city has a mosque.
+What language is the sign written in? <extra_id_0>,The sign is written in [mask].
+How has the cheese been prepared?,<BLANK>
+How has the cheese been prepared? <extra_id_0>,The cheese has been prepared by [mask].
+Is there ketchup? <extra_id_0>,There is ketchup.
+How many lunches is this? <extra_id_0>,There are [mask] lunches.
+Is the hotdog well seasoned? <extra_id_0>,The hotdog is well seasoned.
+What kind of food is shown? <extra_id_0>,The food is [mask].
+What is the cutting board used for in this scene? <extra_id_0>,The cutting board is used for [mask].
+Of what meal is this kind of food typical?,<BLANK>
+Of what meal is this kind of food typical? <extra_id_0>,This kind of food is [mask].
+Is this a healthy meal? <extra_id_0>,This meal is healthy.
+What kind of sauce is in the largest ramekin? <extra_id_0>,The sauce is [mask].
+What type of food is shown? <extra_id_0>,The food is [mask].
+What is the topping on the hot dog? <extra_id_0>,The topping on the hot dog is [mask].
+What topping is on the hot dog? <extra_id_0>,The topping on the hot dog is [mask].
+What is in the small container? <extra_id_0>,The small container is [mask].
+What are the components of this dish? <extra_id_0>,The components of this dish are [mask].
+What kind of toppings are on the hot dogs? <extra_id_0>,The toppings on the hot dogs are [mask].
+Is there a spoon in this photo? <extra_id_0>,There is no spoon in this photo.
+Is this breakfast? <extra_id_0>,This breakfast is not available.
+How delicious does this look?,<BLANK>
+How delicious does this look? <extra_id_0>,This food looks delicious.
+What two vegetables are in the white bowl? <extra_id_0>,The vegetables in the white bowl are [mask].
+How many hot dogs are shown? <extra_id_0>,There are [mask] hot dogs shown.
+What type of filling is in the dish on the bottom left? <extra_id_0>,The filling is [mask].
+What color is the tray? <extra_id_0>,The color of the tray is [mask].
+How many pickle spears are there? <extra_id_0>,There are [mask] pickle spears.
+What is the yellow stuff in a bowl? <extra_id_0>,The yellow stuff in a bowl is [mask].
+How many people are eating this hotdog? <extra_id_0>,There are [mask] people eating this hotdog.
+Is there a drink in this picture? <extra_id_0>,This picture does not contain a drink.
+What is the hot dog sitting on top of? <extra_id_0>,The hot dog is sitting on [mask].
+How many sauces are there? <extra_id_0>,There are [mask] sauces.
+What are the orange things? <extra_id_0>,The orange things are [mask].
+Are the carrots diced or cut long ways? <extra_id_0>,The carrots are diced.
+Do these hot dogs look like they taste good? <extra_id_0>,These hot dogs look good.
+Are those tomatoes on the sandwich? <extra_id_0>,The tomatoes are on the sandwich.
+What is in the cup? <extra_id_0>,The cup is [mask].
+What is the orange root called? <extra_id_0>,The orange root is [mask].
+What is the blackened meat on the bread? <extra_id_0>,The blackened meat on the bread is [mask].
+What kind of meat is this? <extra_id_0>,The meat on the beach is [mask].
+What is on the sandwich? <extra_id_0>,The sandwich is [mask].
+Are the fries plain? <extra_id_0>,The fries are plain.
+Does this breakfast dish primarily carbohydrates? <extra_id_0>,This breakfast dish primarily carbohydrates.
+Has someone started eating? <extra_id_0>,This person has started eating.
+What animal is on the plate? <extra_id_0>,The animal on the plate is [mask].
+Would this be good for dessert? <extra_id_0>,This food would be good for dessert.
+Is there a butter plate on the table? <extra_id_0>,There is a butter plate.
+Does this have lettuce? <extra_id_0>,This has lettuce.[mask].
+Does the food look good? <extra_id_0>,This food looks good.
+Is this meat? <extra_id_0>,This meat is not meat.
+What is on the hotdog? <extra_id_0>,The hotdog is [mask].
+What two vegetables can be seen on the pizza? <extra_id_0>,The vegetables on the pizza are [mask].
+Would this typically be eaten for breakfast? <extra_id_0>,This food is typically eaten for breakfast.
+Is that bacon from a delicatessen? <extra_id_0>,This bacon is from a delicatessen.
+What condiment is on the potatoes? <extra_id_0>,The condiment on the potatoes is [mask].
+How many kinds of meat products are here? <extra_id_0>,There are [mask] different kinds of meat products.
+What sauces are shown? <extra_id_0>,The sauces are [mask].
+What kind of potato are the fries? <extra_id_0>,The fries are [mask].
+What is mainly featured? <extra_id_0>,The main feature is [mask].
+Is the man wearing formal clothes? <extra_id_0>,The man is wearing formal clothes.
+What kind of plants are these? <extra_id_0>,The plants are [mask].
+What is the pattern on the vase? <extra_id_0>,The pattern on the vase is [mask].
+Which hand is the man holding up? <extra_id_0>,The [mask] hand is the man holding up.
+Is there a deodorant on the sink? <extra_id_0>,This sink is not deodorant.
+Is there a full roll of toilet paper in the bathroom? <extra_id_0>,This bathroom has toilet paper.
+How many rolls of toilet paper are on the toilet tank? <extra_id_0>,There are [mask] rolls of toilet paper.
+Would someone be able to watch you change from the outside? <extra_id_0>,This person cannot watch you change.
+What color is the bathroom? <extra_id_0>,The bathroom is [mask].
+Does the shower have a glass door? <extra_id_0>,The shower has a glass door.
+What is the primary color of the bathroom? <extra_id_0>,The primary color of the bathroom is [mask].
+What color is the wall? <extra_id_0>,The color of the wall is [mask].
+Is the towel rack silver? <extra_id_0>,The towel rack is silver.
+Is there a shower curtain? <extra_id_0>,This shower curtain is not available.
+What color are the bathroom walls? <extra_id_0>,The bathroom walls are [mask].
+Where is the light coming from? <extra_id_0>,The light is coming from [mask].
+Is the toilet lid down? <extra_id_0>,The toilet lid is down.
+How many layers are in this cake? <extra_id_0>,There are [mask] layers in this cake.
+Does this cake look like it chocolate? <extra_id_0>,This cake looks like it chocolate.
+How many people can eat this cake? <extra_id_0>,There are [mask] people eating this cake.
+What is printed on the orange sign? <extra_id_0>,The sign is printed on [mask].
+What is the name of the hotel? <extra_id_0>,The name of the hotel is [mask].
+How many vehicles are shown? <extra_id_0>,There are [mask] vehicles shown.
+What mode of transportation is pictured? <extra_id_0>,The mode of transportation is [mask].
+Is this a small town? <extra_id_0>,This is a small town.
+Will these planes be used to transport people? <extra_id_0>,This plane is used to transport people.
+What airline is this? <extra_id_0>,The airline is [mask].
+The plane's stand resembles what letter?,<BLANK>
+The plane's stand resembles what letter? <extra_id_0>,The plane's stand resembles [mask].
+What type of plane is this? <extra_id_0>,The type of plane is [mask].
+What is written on the picture? <extra_id_0>,The picture is [mask].
+What shipping company is represented in the scene? <extra_id_0>,The shipping company is [mask].
+What airline is this plane from? <extra_id_0>,The plane is from [mask].
+What kind of aircraft is this? <extra_id_0>,The aircraft is [mask].
+How does the man get down from the machine?,<BLANK>
+How does the man get down from the machine? <extra_id_0>,The man gets down from the machine.
+Is the room carpeted? <extra_id_0>,The room is carpeted.
+Where is the television? <extra_id_0>,The television is in [mask].
+Is there a fireplace? <extra_id_0>,This fireplace is not present.
+Are stains on the floor? <extra_id_0>,The floor is stained.
+How many lamps are there? <extra_id_0>,There are [mask] lamps.
+What is the picture of on wall? <extra_id_0>,The picture on the wall is [mask].
+What is on the carpet? <extra_id_0>,The carpet is [mask].
+How many lamps are in the room? <extra_id_0>,There are [mask] lamps in the room.
+Are these boys at home? <extra_id_0>,These boys are at home.
+What kind of lamp is on the floor? <extra_id_0>,The lamp on the floor is [mask].
+Is this a 60's motif? <extra_id_0>,This is a 60's motif.
+How many pictures on the wall? <extra_id_0>,There are [mask] pictures on the wall.
+Which floor lamp is not lit? <extra_id_0>,The [mask] floor lamp is not lit.
+How many TVs are on? <extra_id_0>,There are [mask] TVs on.
+What color is the sofa? <extra_id_0>,The color of the sofa is [mask].
+How many pictures are on the wall? <extra_id_0>,There are [mask] pictures on the wall.
+How many men in the picture are wearing sunglasses? <extra_id_0>,There are [mask] men wearing sunglasses.
+What kind of hat is the man with the girls wearing? <extra_id_0>,The man with the girls is wearing [mask].
+What color is the man's shirt in the front of the photo? <extra_id_0>,The color of the man's shirt is [mask].
+What are the ladies doing? <extra_id_0>,The ladies are doing [mask].
+Where is the street sign? <extra_id_0>,The street sign is in [mask].
+Where are the women walking? <extra_id_0>,The women are walking in [mask].
+Is the light green? <extra_id_0>,The light green is green.
+What is written on the street? <extra_id_0>,The street is [mask].
+Is it raining? <extra_id_0>,It is raining.
+Urban or suburban?,<BLANK>
+Urban or suburban? <extra_id_0>,Urban or suburban?
+Where is the woman standing? <extra_id_0>,The woman is standing in [mask].
+How many people can be seen? <extra_id_0>,There are [mask] people visible.
+What type of vehicle is on the left? <extra_id_0>,The vehicle on the left is [mask].
+Is this woman crossing a street? <extra_id_0>,This woman is crossing a street.
+What color is the traffic signal? <extra_id_0>,The traffic signal is [mask].
+What is being held green? <extra_id_0>,The green thing is [mask].
+What time of day is it? <extra_id_0>,It is [mask] at [mask].
+Is this in the United States? <extra_id_0>,This is in the United States.
+How many green lights are there? <extra_id_0>,There are [mask] green lights.
+How many lights does the plane have? <extra_id_0>,There are [mask] lights.
+How many planes are in this photo? <extra_id_0>,There are [mask] planes.
+Is there anyone in the cockpit? <extra_id_0>,There is no one in the cockpit.
+What country name is written as the highest word on the bus? <extra_id_0>,The country name is [mask].
+Is the bus stopped? <extra_id_0>,The bus is stopped.
+How many people are standing in this image? <extra_id_0>,There are [mask] people standing.
+What is the skier standing on? <extra_id_0>,The skier is standing on [mask].
+How many poles is the person holding? <extra_id_0>,There are [mask] poles.
+What is the person doing? <extra_id_0>,The person is doing [mask].
+Is this an ocean area? <extra_id_0>,This is an ocean area.
+How many bodies of water are in this scene? <extra_id_0>,There are [mask] bodies of water.
+How many light post is there? <extra_id_0>,There are [mask] light posts.
+Is the ground near the waterfront squishy? <extra_id_0>,The ground near the waterfront is soft.
+What infrastructure would one drive on to go perpendicular to the water? <extra_id_0>,The infrastructure would be [mask].
+Is the water calm? <extra_id_0>,The water is calm.
+What color is the woman's sweater? <extra_id_0>,The color of the woman's sweater is [mask].
+Is this a cheese pizza? <extra_id_0>,This is a cheese pizza.
+What pizza topping is this? <extra_id_0>,The pizza topping is [mask].
+What is in the vase next to the flowers? <extra_id_0>,The vase next to the flowers is [mask].
+Is there more than one vase on the table? <extra_id_0>,There is more than one vase.
+Are these flowers real or silk? <extra_id_0>,These flowers are real or silk.
+England's Queen mother and these blooms share what syllable?,<BLANK>
+England's Queen mother and these blooms share what syllable? <extra_id_0>,The Queen mother is English.
+How many people are in the picture? <extra_id_0>,There are [mask] people in the picture.
+What color are the chairs? <extra_id_0>,The color of the chairs is [mask].
+What kind of celebration is this? <extra_id_0>,This is a [mask].
+What emblem is on the cake? <extra_id_0>,The emblem on the cake is [mask].
+Are they outside or in? <extra_id_0>,They are outside or in.
+Is there a cake here? <extra_id_0>,There is a cake here.
+Are there any pens on the table? <extra_id_0>,There are no pens on the table.
+What are the initials on the cake? <extra_id_0>,The initials on the cake are [mask].
+Why are the birds only appearing as black silhouettes? <extra_id_0>,The birds are only appearing as black silhouettes.
+How many pigeons are there? <extra_id_0>,There are [mask] pigeons.
+Is this image tilted? <extra_id_0>,This image is tilted.
+What utensil is in the pan? <extra_id_0>,The utensil is [mask].
+What is the red vegetable in the clear dish? <extra_id_0>,The red vegetable is [mask].
+Does this image contain a pie pan? <extra_id_0>,This image contains a pie pan.
+Is this a large house? <extra_id_0>,This house is large.
+Is there a fountain in front of the building? <extra_id_0>,The fountain is in front of the building.
+Is the sun shining? <extra_id_0>,The sun is shining.
+What color is the building? <extra_id_0>,The color of the building is [mask].
+Is this a church? <extra_id_0>,This church is not a church.
+What tree is on the left? <extra_id_0>,The tree on the left is [mask].
+Are there clouds visible? <extra_id_0>,The sky is blue.
+Is this a sunny day? <extra_id_0>,This is a sunny day.
+What is the material right around the clock? <extra_id_0>,The material right around the clock is [mask].
+What color are the flowers? <extra_id_0>,The color of the flowers is [mask].
+How many bells are there? <extra_id_0>,There are [mask] bells.
+How tall is this building?,<BLANK>
+How tall is this building? <extra_id_0>,The building is [mask] tall.
+What materials are on the roof? <extra_id_0>,The roof is made of [mask].
+How many clock faces does this building have? <extra_id_0>,There are [mask] clock faces.
+Are the hedges well-groomed? <extra_id_0>,The hedges are well-groomed.
+Does the building in the back have an elevator? <extra_id_0>,The building in the back has an elevator.
+What is in gold at the top of the building? <extra_id_0>,The building is in [mask].
+Do you a phone booth? <extra_id_0>,This phone booth is not available.
+What color is the clock tower in this photo? <extra_id_0>,The color of the clock tower is [mask].
+What are on both side of the building? <extra_id_0>,The building is on [mask].
+What is around the tree? <extra_id_0>,The tree is around [mask].
+Are the buildings tall? <extra_id_0>,The buildings are tall.
+How many flags are by the building's entrance? <extra_id_0>,There are [mask] flags.
+Is the clock between two arches? <extra_id_0>,The clock is between two arches.
+Are there any entrance gates at the bottom of the tower? <extra_id_0>,There are no entrance gates.
+Is the building a high rise? <extra_id_0>,The building is a high rise.
+Is part of this tower made of wood? <extra_id_0>,This tower is made of wood.
+Can the tree tell time? <extra_id_0>,The tree can tell time.
+How many windows are shown? <extra_id_0>,There are [mask] windows shown.
+How many windows are pictured? <extra_id_0>,There are [mask] windows.
+Is the emblem a sun face clock? <extra_id_0>,The emblem is a sun face clock.
+What is the woman doing in this photo? <extra_id_0>,The woman is doing [mask].
+What are the sheep standing on? <extra_id_0>,The sheep are standing on [mask].
+What is the woman feeding the animal? <extra_id_0>,The woman is feeding [mask].
+How many sheep can you see? <extra_id_0>,There are [mask] sheep.
+Is the ram's fleece dirty? <extra_id_0>,The ram's fleece is dirty.
+Is there a travel guide on the table? <extra_id_0>,This travel guide is on the table.
+What color plate is this? <extra_id_0>,The color of the plate is [mask].
+What type of silverware is on the plates? <extra_id_0>,The silverware on the plates is [mask].
+What color are the skis? <extra_id_0>,The skis are [mask].
+Is there snow? <extra_id_0>,The sky is white.
+What is the man holding in his left hand? <extra_id_0>,The man is holding [mask].
+What is the color of the zipper? <extra_id_0>,The color of the zipper is [mask].
+Are the boots a solid color or patterned? <extra_id_0>,The boots are a solid color.
+How many people are there? <extra_id_0>,There are [mask] people there.
+Is it summer? <extra_id_0>,The sky is blue.
+What color is the man's hat? <extra_id_0>,The color of the man's hat is [mask].
+How many people are in the image? <extra_id_0>,There are [mask] people in the image.
+What color is the woman's shorts? <extra_id_0>,The color of the woman's shorts is [mask].
+Is the picture in color? <extra_id_0>,The picture is in color.
+Is there a dog in the photo? <extra_id_0>,This photo does not contain a dog.
+Is the dog on a leash? <extra_id_0>,The dog is on a leash.
+What are the people doing in the street? <extra_id_0>,The people are doing [mask].
+What is floating near the bird? <extra_id_0>,The bird is floating near [mask].
+Are all of the birds in flight? <extra_id_0>,All of the birds are in flight.
+How many birds are there? <extra_id_0>,There are [mask] birds.
+Are there three birds in the picture? <extra_id_0>,There are three birds in the picture.
+Is this a dog? <extra_id_0>,This is a dog.
+Is this a winter scene? <extra_id_0>,This is a winter scene.
+Is the water frozen? <extra_id_0>,The water is frozen.
+Why are there so many clothes on the bed? <extra_id_0>,The clothes are so many because [mask].
+Is that a laptop on the chair? <extra_id_0>,This is a laptop.
+What color is the girl's hair? <extra_id_0>,The girl's hair is [mask].
+What brand of soda is advertised? <extra_id_0>,The brand of soda is [mask].
+Is Cingular a sponsor of this field? <extra_id_0>,This field is sponsored by Cingular.
+What Mexican food restaurant chain is advertised? <extra_id_0>,The Mexican food restaurant chain is [mask].
+How is the turnout?,<BLANK>
+How is the turnout? <extra_id_0>,The turnout is [mask].
+How many men are playing baseball? <extra_id_0>,There are [mask] men playing baseball.
+What is the large sculpture next to the oversized cola bottle? <extra_id_0>,The sculpture is [mask].
+What color is the catcher's pants? <extra_id_0>,The color of the catcher's pants is [mask].
+How many pots are hanging under the shelf? <extra_id_0>,There are [mask] pots hanging.
+What time is it? <extra_id_0>,It is [mask].
+Is this a conventional kitchen? <extra_id_0>,This is a conventional kitchen.
+What color flowers are on the top right? <extra_id_0>,The flowers on the top right are [mask].
+Is the area lit? <extra_id_0>,The area is lit.
+Where was this shot at? <extra_id_0>,The shot was taken at [mask].
+Are the vases identical? <extra_id_0>,The vases are identical.
+Are these the normal size pieces of pizza? <extra_id_0>,These are the normal size pieces of pizza.
+Could you eat all of this pizza? <extra_id_0>,This pizza is too big.
+Is there broccoli on a slice of pizza? <extra_id_0>,There is broccoli on a slice of pizza.
+What color is the cloth? <extra_id_0>,The color of the cloth is [mask].
+How many zebras are there? <extra_id_0>,There are [mask] zebras.
+What continent might this be? <extra_id_0>,The continent is [mask].
+Is there an animal that seems to stick out? <extra_id_0>,This animal seems to stick out.
+Is this in a zoo? <extra_id_0>,This animal is not in a Zoo.
+Is this in a desert? <extra_id_0>,This is in a desert.
+What type of fruit is on the plate? <extra_id_0>,The fruit on the plate is [mask].
+Is this a banana toast? <extra_id_0>,This is a banana toast.
+What color is the milk carton? <extra_id_0>,The milk carton is [mask].
+Are the people playing a game? <extra_id_0>,The people are playing a game.
+Is the TV turned on? <extra_id_0>,The TV is turned on.
+Is this person watching a movie? <extra_id_0>,This person is watching a movie.
+What is in the blue chair? <extra_id_0>,The blue chair is [mask].
+What type of footwear is the person wearing? <extra_id_0>,The person is wearing [mask].
+What are the animals doing? <extra_id_0>,The animals are doing [mask].
+Is one of the giraffes eating? <extra_id_0>,This animal is eating.
+What type of animal is in the picture? <extra_id_0>,The animal in the picture is [mask].
+Is it daytime? <extra_id_0>,It is daytime.
+Are the kickstands down? <extra_id_0>,The kickstands are down.
+Do you see any motorcycle helmets? <extra_id_0>,No motorcycle helmets are visible.
+Is the kite high in the air? <extra_id_0>,The kite is high in the air.
+Is the sky clear? <extra_id_0>,The sky is clear.
+What color is the building? <extra_id_0>,The color of the building is [mask].
+Are the people flying kites? <extra_id_0>,The people are flying kites.
+Which buses are double deckers? <extra_id_0>,Which buses are double deckers?
+What kind of court is at the edge of the field? <extra_id_0>,The court is [mask].
+Can you see any fish? <extra_id_0>,Can you see any fish?
+Is this man swimming? <extra_id_0>,This man is swimming.
+Is he turning? <extra_id_0>,He is turning.[mask].
+Does the man have short hair? <extra_id_0>,The man has short hair.
+What is this man laying on? <extra_id_0>,The man is lying on [mask].
+What color is this girl's shirt? <extra_id_0>,The color of this girl's shirt is [mask].
+What color is the girls hot dog? <extra_id_0>,The color of the girls hot dog is [mask].
+What color are the girl's lips? <extra_id_0>,The color of the girl's lips is [mask].
+What does the front of the bus say at the top? <extra_id_0>,The front of the bus says [mask].
+Is the bus featured in this picture typical? <extra_id_0>,This bus is typical.
+What color is the school bus? <extra_id_0>,The color of the school bus is [mask].
+Is this the latest make and model? <extra_id_0>,This is the latest make and model.
+What color is the bus? <extra_id_0>,The color of the bus is [mask].
+Are there any building in the area? <extra_id_0>,There are no buildings in the area.
+Is there a fence in the background? <extra_id_0>,The fence is not visible.
+How many zebras can you see eating? <extra_id_0>,There are [mask] zebras.
+How many kinds of animals are in this photo? <extra_id_0>,There are [mask] different kinds of animals.
+Is the zebra's tail up? <extra_id_0>,The zebra's tail is up.
+How many different types of animals are in this scene? <extra_id_0>,There are [mask] different types of animals.
+What direction are the animals heading? <extra_id_0>,The animals are heading in [mask].
+Are they the same type of animal? <extra_id_0>,They are not the same type of animal.
+Is the zebra walking or standing still? <extra_id_0>,The zebra is standing still.
+Are all zebras facing the same way? <extra_id_0>,All zebras are facing the same way.
+How many animals are there? <extra_id_0>,There are [mask] animals.
+Are the zebras running? <extra_id_0>,The zebras are running.
+Who is in the photo? <extra_id_0>,[mask] is in the photo.
+Number of animals?,<BLANK>
+Number of animals? <extra_id_0>,[mask] is counting the animals.
+Is he going to fall? <extra_id_0>,He is going to fall.
+What color are the stakes in the dirt? <extra_id_0>,The stakes in the dirt are [mask].
+What color shirt is the man standing in the background wearing? <extra_id_0>,The man is wearing [mask].
+How many arrows can be seen? <extra_id_0>,There are [mask] arrows.
+How many stripes are at the bottom of the picture? <extra_id_0>,There are [mask] stripes.
+Are the traffic lights facing the same direction? <extra_id_0>,The traffic lights are facing the same direction.
+Is this cake made with fondant? <extra_id_0>,This cake is made with fondant.
+Where is the cupcake? <extra_id_0>,The cupcake is in [mask].
+What is on the plate? <extra_id_0>,The plate is [mask].
+What are the pink pieces of paper called? <extra_id_0>,The pink pieces of paper are [mask].
+What kind of nut is shown? <extra_id_0>,The nut is [mask].
+What is the green stuff? <extra_id_0>,The green stuff is [mask].
+Is this a finger food or dish? <extra_id_0>,This food is a finger food.
+What ICING IS USED ON THIS CAKE? <extra_id_0>,The icing is [mask].
+Is there a fork on the plate? <extra_id_0>,There is no fork.
+Is this black and white? <extra_id_0>,This is black and white.
+What is the figure on the cupcake? <extra_id_0>,The figure on the cupcake is [mask].
+What flavor is the cupcake? <extra_id_0>,The cupcake is [mask].
+What is the woman doing? <extra_id_0>,The woman is doing [mask].
+Is a military person in the picture? <extra_id_0>,This is a military person.
+Are they smiling? <extra_id_0>,They are smiling.[mask].
+How many potted plants do you see? <extra_id_0>,There are [mask] potted plants.
+How many chairs are there? <extra_id_0>,There are [mask] chairs.
+Is this an old building? <extra_id_0>,This building is old.
+What room is this? <extra_id_0>,The room is [mask].
+Is the room almost full? <extra_id_0>,The room is almost full.
+Where was this picture taken? <extra_id_0>,The picture was taken in [mask].
+How many kids in this photo? <extra_id_0>,There are [mask] kids in this photo.
+Are the people on a soft surface? <extra_id_0>,The people are on a soft surface.
+How many animals? <extra_id_0>,There are [mask] animals.
+What color are the majority of sheep? <extra_id_0>,The majority of sheep are [mask].
+Has the grass been mowed recently? <extra_id_0>,The grass has not been mowed.
+What kind of animals are in there? <extra_id_0>,The animals in there are [mask].
+Is this scene in America? <extra_id_0>,This scene is in America.
+What is the boy doing? <extra_id_0>,The boy is doing [mask].
+Are all the laptops on? <extra_id_0>,All the laptops are on.
+How many laptops are on the coffee table? <extra_id_0>,There are [mask] laptops.
+Where is the laptop? <extra_id_0>,The laptop is in [mask].
+What animal is on the walls? <extra_id_0>,The animal on the walls is [mask].
+Is this a hotel room? <extra_id_0>,This hotel room is not.
+Where are the two upside down glasses? <extra_id_0>,The two upside down glasses are in [mask].
+Is this a hotel? <extra_id_0>,This hotel is not a hotel.
+Is an elephant walking down the street? <extra_id_0>,This elephant is walking down the street.
+Is the guy in the yellow shirt wearing a tie? <extra_id_0>,The guy in the yellow shirt is wearing a tie.
+How many people are in the picture? <extra_id_0>,There are [mask] people in the picture.
+Is this a church? <extra_id_0>,This church is not a church.
+Sunny or overcast?,<BLANK>
+Sunny or overcast? <extra_id_0>,Sunny or overcast.
+Is there snow in the picture? <extra_id_0>,The picture is not snow.
+What is the color of the roof shingles? <extra_id_0>,The roof shingles are [mask].
+What symbol sits atop the tower? <extra_id_0>,The symbol sits atop the tower.
+Is there a clock on the church tower? <extra_id_0>,The church tower is not visible.
+Is there a clock? <extra_id_0>,There is no clock.
+Is this person wearing a backpack? <extra_id_0>,This person is wearing a backpack.
+Is there a street light in the photo? <extra_id_0>,The sky is blue.
+Is the sun up? <extra_id_0>,The sun is up.
+What is the grate for? <extra_id_0>,The grate is for [mask].
+Is the oven on? <extra_id_0>,The oven is on.
+Is there a window in this scene? <extra_id_0>,There is no window.
+What kind of siding is on this house? <extra_id_0>,The siding on this house is [mask].
+Is this toast done? <extra_id_0>,This toast is done.
+How many knobs are there? <extra_id_0>,There are [mask] knobs.
+Is the microwave on? <extra_id_0>,The microwave is on.
+Is the toaster on? <extra_id_0>,The toaster is on.
+What color are the flowers? <extra_id_0>,The color of the flowers is [mask].
+What time is it? <extra_id_0>,It is [mask].
+What is the brown object with a clock on it? <extra_id_0>,The brown object with a clock is [mask].
+How many buses are there? <extra_id_0>,There are [mask] buses.
+Is this a one way street? <extra_id_0>,This street is one way.
+Are there people boarding the bus? <extra_id_0>,There are people boarding the bus.
+What color is the bus? <extra_id_0>,The color of the bus is [mask].
+What number bus is this? <extra_id_0>,The number of the bus is [mask].
+Where is the open door? <extra_id_0>,The open door is in [mask].
+Is there a hardware store in the area? <extra_id_0>,This area has a hardware store.
+How many decks does this bus have? <extra_id_0>,There are [mask] decks.
+Are the drying the animal with a blow dryer? <extra_id_0>,This animal is not drying.
+What color are the girls earrings? <extra_id_0>,The girls earrings are [mask].
+What is the woman holding? <extra_id_0>,The woman is holding [mask].
+What kind of vehicle is the yellow one? <extra_id_0>,The yellow one is [mask].
+How many windows? <extra_id_0>,There are [mask] windows.
+Is this a hotel? <extra_id_0>,This hotel is not a hotel.
+Can you see the man's shadow? <extra_id_0>,The man's shadow is visible.
+Is this lacrosse? <extra_id_0>,This is lacrosse.
+The color of the court is green?,<BLANK>
+The color of the court is green? <extra_id_0>,The color of the court is green.
+What color is the plate? <extra_id_0>,The color of the plate is [mask].
+Who is going to eat this pizza? <extra_id_0>,[mask] is eating this pizza.
+Is this pizza nutritious enough to eat for a full dinner? <extra_id_0>,This pizza is nutritious enough.
+What shape is at the bottom of the pole? <extra_id_0>,The shape of the pole is [mask].
+Are both beds made? <extra_id_0>,Both beds are made.
+Is there a ladder in the picture? <extra_id_0>,There is no ladder in the picture.
+How many steps does it take to get to the top? <extra_id_0>,There are [mask] steps.
+What type of bed is in the picture? <extra_id_0>,The bed is [mask].
+Is this vehicle parked in a residential driveway? <extra_id_0>,This vehicle is parked in residential driveway.
+Is the color of the car very common for vehicles? <extra_id_0>,The color of the car is blue.
+What color is the car? <extra_id_0>,The color of the car is [mask].
+What is he cooking? <extra_id_0>,The man is cooking [mask].
+Where are the buns? <extra_id_0>,The buns are in [mask].
+Why is the man cooking so many hot dogs? <extra_id_0>,The man is cooking so many hot dogs because [mask].
+Is this a new or ancient clock? <extra_id_0>,This clock is old.
+What time does the clock read? <extra_id_0>,The clock reads [mask].
+Are all the people looking at the same thing? <extra_id_0>,The sky is blue.
+Do these ski boards have personality? <extra_id_0>,These ski boards have personality.
+How many ski boards are in the picture? <extra_id_0>,There are [mask] ski boards.
+What mountain was this taken at? <extra_id_0>,The mountain was taken at [mask].
+What is the black thing he is wearing? <extra_id_0>,The black thing is [mask].
+What kind of room is this? <extra_id_0>,The room is [mask].
+What is the man doing in the picture? <extra_id_0>,The man is doing [mask].
+What is the cartoon man presenting to the cartoon woman? <extra_id_0>,The cartoon woman is presenting [mask].
+What color is the sign? <extra_id_0>,The color of the sign is [mask].
+What does the sign with the white arrow say? <extra_id_0>,The sign with the white arrow says [mask].
+Which way can you not turn? <extra_id_0>,The [mask] way can you not turn.
+"What is above the ""No Left Turn"" sign? <extra_id_0>",The sign is above [mask].
+Is the woman wearing a dress? <extra_id_0>,The woman is wearing a dress.
+Are they playing a game? <extra_id_0>,They are playing a game.
+Will the bent person fall forward? <extra_id_0>,The bent person will fall forward.
+Is there a man and a woman? <extra_id_0>,There is a man and a woman.
+Is this photo to blurry? <extra_id_0>,This photo is blurry.
+Would you get a ticket if you disobeyed this sign? <extra_id_0>,This sign is not visible.
+Is the red stop sign on a wooden pole? <extra_id_0>,The red stop sign is red.
+What is the sign says? <extra_id_0>,The sign says [mask].
+Can you see the sun in the picture? <extra_id_0>,The sun is not visible.
+Which baby is still an infant? <extra_id_0>,The [mask] baby is still an infant.
+How many blue stripes are on the babies shirt? <extra_id_0>,There are [mask] blue stripes.
+Are they twins? <extra_id_0>,They are twins.
+Is one of the children a boy? <extra_id_0>,One of the children is a boy.
+How many babies are in this photo? <extra_id_0>,There are [mask] babies in this photo.
+Are these teenagers? <extra_id_0>,These teenagers are not teenagers.
+Are both of the children smiling? <extra_id_0>,Both of the children are smiling.
+What color is the girl's brush? <extra_id_0>,The color of the girl's brush is [mask].
+What gender are both of the children likely to be? <extra_id_0>,The children are likely to be [mask].
+What color is the comb? <extra_id_0>,The color of the comb is [mask].
+Is this child wearing socks? <extra_id_0>,This child is wearing socks.
+What is the one girl doing to the other girl's hair? <extra_id_0>,The one girl is doing [mask].
+Where is the table lamp? <extra_id_0>,The table lamp is in [mask].
+Something new to wear with a men's shirt?,<BLANK>
+Something new to wear with a men's shirt? <extra_id_0>,Something new to wear with a men's shirt?
+Is the man's shirt a solid color? <extra_id_0>,The man's shirt is solid.
+What is this person holding? <extra_id_0>,The person is holding [mask].
+What color is the table? <extra_id_0>,The color of the table is [mask].
+Where is the cup? <extra_id_0>,The cup is in [mask].
+How much did they pay for the hot dogs?,<BLANK>
+How much did they pay for the hot dogs? <extra_id_0>,The price of the hot dogs is [mask].
+What is in the man's hand? <extra_id_0>,The man's hand is [mask].
+How many balls are on the ground? <extra_id_0>,There are [mask] balls on the ground.
+Is this man tan? <extra_id_0>,This man is tan.
+The tablecloths are white?,<BLANK>
+The tablecloths are white? <extra_id_0>,The tablecloths are white.
+What silverware is on the table? <extra_id_0>,The silverware on the table is [mask].
+Where do you think all these are located? <extra_id_0>,The answer is [mask].
+What color is the knife handle? <extra_id_0>,The color of the knife handle is [mask].
+Are the pictures colorful? <extra_id_0>,The pictures are colorful.
+Do you a mirror in the background? <extra_id_0>,This is a mirror.
+How many glasses are there? <extra_id_0>,There are [mask] glasses.
+Is there food on the table? <extra_id_0>,There is food on the table.
+Where is the room? <extra_id_0>,The room is in [mask].
+What type of animal is it? <extra_id_0>,The animal on the beach is [mask].
+Where is the cat? <extra_id_0>,The cat is in [mask].
+Is there a pillow present in the picture? <extra_id_0>,This pillow is not present.
+What color eyes does the cat have? <extra_id_0>,The cat has [mask].
+Is she wearing a bathing suit? <extra_id_0>,She is wearing a bathing suit.
+What color is the umbrella? <extra_id_0>,The color of the umbrella is [mask].
+Why is the girl holding an umbrella? <extra_id_0>,The girl is holding an umbrella because [mask].
+How many horses are on the picture? <extra_id_0>,There are [mask] horses on the picture.
+How many horses are in the picture? <extra_id_0>,There are [mask] horses in the picture.
+Are they surrounded by trees? <extra_id_0>,This animal is surrounded by trees.
+Is there a puddle of water on the dirt? <extra_id_0>,The dirt is wet.
+What is the man standing on? <extra_id_0>,The man is standing on [mask].
+Are these men on a boat? <extra_id_0>,These men are on a boat.
+What color is the man's skin? <extra_id_0>,The color of the man's skin is [mask].
+What are these men standing in front of? <extra_id_0>,The men are standing in front of [mask].
+What is the temperature outside? <extra_id_0>,The temperature outside is [mask].
+Are the boys happy? <extra_id_0>,The boys are happy.
+Is the man in the forefront trying to get signal on a cell phone? <extra_id_0>,The man in the forefront is not.
+What is this person standing on? <extra_id_0>,The person is standing on [mask].
+Were people moving when this picture was taken?,<BLANK>
+Were people moving when this picture was taken? <extra_id_0>,The picture was taken at [mask].
+What is lying on the ground? <extra_id_0>,The animal on the ground is [mask].
+What is flying in the air? <extra_id_0>,The flying bird is [mask].
+What brand of shoes is the skateboarder wearing? <extra_id_0>,The skateboarder is wearing [mask].
+Was this photo taken recently? <extra_id_0>,This photo was taken recently.
+Is this  a beach? <extra_id_0>,This beach is not a beach.
+Is the guy making a performance? <extra_id_0>,The guy is making a performance.
+Is he doing a trick? <extra_id_0>,This animal is doing a trick.
+Is the man in the foreground barefooted? <extra_id_0>,The man is barefooted.
+Is this busy metropolis? <extra_id_0>,This busy metropolis is busy.
+What is the man on a skateboard? <extra_id_0>,The man on a skateboard is [mask].
+Which man is controlling the kite? <extra_id_0>,The [mask] man is controlling the kite.
+Are there waves in the picture? <extra_id_0>,There are waves in the picture.
+What type of clouds are visible in this photo? <extra_id_0>,The clouds are [mask].
+What is the man doing? <extra_id_0>,The man is doing [mask].
+Is the person on the right male or female? <extra_id_0>,The person on the right is male.
+What object is painted on the surfboard? <extra_id_0>,The object on the surfboard is [mask].
+What color is the shirt of the man standing? <extra_id_0>,The shirt of the man standing is [mask].
+What color is the board? <extra_id_0>,The color of the board is [mask].
+How many kids? <extra_id_0>,There are [mask] kids.
+What colors are in the kite? <extra_id_0>,The kite is [mask].
+Did the man just steal the boy's kite? <extra_id_0>,The man stole the boy's kite.
+What color is the train's bumper? <extra_id_0>,The color of the train's bumper is [mask].
+Is this a steam engine train? <extra_id_0>,This is a steam engine train.
+What does the train ride along? <extra_id_0>,The train ride along is [mask].
+What is turned on? <extra_id_0>,The light is on [mask].
+What is the name of the yellow fruit pictured? <extra_id_0>,The name of the yellow fruit is [mask].
+Why would someone not like the fruit at the front? <extra_id_0>,The fruit at the front is [mask].
+What color dresses are the women wearing? <extra_id_0>,The women are wearing [mask].
+Are the umbrellas wet? <extra_id_0>,The umbrellas are wet.
+How many black umbrellas? <extra_id_0>,There are [mask] black umbrellas.
+Which vehicle is the smallest? <extra_id_0>,The [mask] vehicle is the smallest.
+Is there snow on the ground? <extra_id_0>,The ground is snowy.
+How many skis are on the ground? <extra_id_0>,There are [mask] skis on the ground.
+What kind of pizza is this? <extra_id_0>,The pizza is [mask].
+Does this oven look new? <extra_id_0>,This oven looks new.
+Does the oven have a digital buttons? <extra_id_0>,This oven does not have digital buttons.
+Is this oven greasy? <extra_id_0>,This oven is greasy.
+Is the pizza on a baking tray? <extra_id_0>,The pizza is on a baking tray.
+Do you like chocolate cake? <extra_id_0>,This food is chocolate cake.
+What color is the plate? <extra_id_0>,The color of the plate is [mask].
+What is this cake made with? <extra_id_0>,The cake is made with [mask].
+What shape are the plates? <extra_id_0>,The shape of the plates is [mask].
+Are there any water glasses on the table? <extra_id_0>,There are no water glasses.
+What indicates that this is for a party? <extra_id_0>,The party is for [mask].
+Are there tomatoes on the pizza? <extra_id_0>,There are tomatoes on the pizza.
+What two utensils are next to the plate? <extra_id_0>,The two utensils are [mask].
+Are there any people in the picture? <extra_id_0>,There are no people in the picture.
+Can they go? <extra_id_0>,Can they go? [mask].
+Are the cars parked? <extra_id_0>,The cars are parked.
+Why is the top light on? <extra_id_0>,The top light is on because [mask].
+How lucky is it that no one was walking on the sidewalk at that time?,<BLANK>
+How lucky is it that no one was walking on the sidewalk at that time? <extra_id_0>,The food is warm because [mask].
+What traffic light is on? <extra_id_0>,The traffic light is on [mask].
+Are all the players wearing black shirts? <extra_id_0>,All the players are wearing black shirts.
+What number does the battery have on his shirt? <extra_id_0>,The battery has [mask].
+What team is the batter from? <extra_id_0>,The batter is from [mask].
+How many water jugs are visible? <extra_id_0>,There are [mask] water jugs visible.
+What color is the picket fence? <extra_id_0>,The color of the picket fence is [mask].
+How many trains are there? <extra_id_0>,There are [mask] trains.
+Is one of the trains going through a tunnel? <extra_id_0>,This train is going through a tunnel.
+Who is the woman the picture on wall? <extra_id_0>,The woman is [mask].
+Is the door open? <extra_id_0>,The door is open.
+Is the man on TV wearing a tie? <extra_id_0>,The man on TV is wearing a tie.
+What objects are directly above the TV set? <extra_id_0>,The objects are [mask].
+Is everyone wearing glasses? <extra_id_0>,Everyone is wearing glasses.
+What print is this woman's dress? <extra_id_0>,The print of this woman's dress is [mask].
+Are both people of the same ethnic background? <extra_id_0>,Both people are of the same ethnic background.
+The man is wearing a helmet?,<BLANK>
+The man is wearing a helmet? <extra_id_0>,The man is wearing a helmet.
+What is on the handlebars? <extra_id_0>,The handlebars are [mask].
+What bird is on the man's bike? <extra_id_0>,The bird on the man's bike is [mask].
+What color is this airplane? <extra_id_0>,The color of the airplane is [mask].
+Who is the pilot? <extra_id_0>,[mask] is the pilot.
+Is this a government official's plane? <extra_id_0>,This plane is a government official.
+Are the kids sitting? <extra_id_0>,The kids are sitting.
+How many kids are there? <extra_id_0>,There are [mask] kids.
+Are these children playing a game? <extra_id_0>,These children are playing a game.
+How many rocks? <extra_id_0>,There are [mask] rocks.
+What is the fence made of? <extra_id_0>,The fence is made of [mask].
+The zebras are in a field?,<BLANK>
+The zebras are in a field? <extra_id_0>,The zebras are in a field.
+How many zebras are there? <extra_id_0>,There are [mask] zebras.
+How many floors do you think the highest building has? <extra_id_0>,There are [mask] floors.
+Have you ever been to this intersection? <extra_id_0>,This intersection is not visible.
+What is the name of the street that starts with a color? <extra_id_0>,The street that starts with [mask].
+Are some of the trees dead? <extra_id_0>,Some of the trees are dead.
+Are the rocks for the giraffe to sit on? <extra_id_0>,The rocks are not blue.
+How can you tell the giraffe is in captivity?,<BLANK>
+How can you tell the giraffe is in captivity? <extra_id_0>,The giraffe is captive.
+What is the name of the store behind the lady? <extra_id_0>,The name of the store behind the lady is [mask].
+What does the lady have in her mouth? <extra_id_0>,The lady has [mask].
+What color is the woman's shirt? <extra_id_0>,The color of the woman's shirt is [mask].
+Does someone have a green thumb? <extra_id_0>,This person has a green thumb.
+Is the seedling a hybrid? <extra_id_0>,The seedling is a hybrid.
+What are the popsicle sticks used for? <extra_id_0>,The popsicle sticks are used for [mask].
+Why is the man in mid-air? <extra_id_0>,The man is in mid-air because [mask].
+Is there a tent in the snow? <extra_id_0>,There is a tent in the snow.
+What is the structure in the background? <extra_id_0>,The structure in the background is [mask].
+What color is the lighted sign? <extra_id_0>,The lighted sign is [mask].
+Is this terminal safe at night? <extra_id_0>,This terminal is safe at night.
+Is the woman by herself? <extra_id_0>,The woman is by herself.
+Is it a clear day? <extra_id_0>,The sky is clear.
+What is this person doing? <extra_id_0>,This person is doing [mask].
+What are these people doing? <extra_id_0>,The people are doing [mask].
+What is the white structure behind the ramp? <extra_id_0>,The white structure behind the ramp is [mask].
+Is this person prone on his back or on his knees? <extra_id_0>,This person is prone.
+Is the skier on the ground? <extra_id_0>,The skier is on the ground.
+Is the subject of the photo facing downhill? <extra_id_0>,The subject of the photo is facing downhill.
+What kind of trees are in this photo? <extra_id_0>,The trees in this photo are [mask].
+What is on the ground? <extra_id_0>,The ground is [mask].
+What color is the surfboard? <extra_id_0>,The color of the surfboard is [mask].
+What is the man wearing? <extra_id_0>,The man is wearing [mask].
+Is this man attached to his surfboard? <extra_id_0>,This man is attached to his surfboard.
+Is this man riding a surfboard? <extra_id_0>,This man is riding a surfboard.
+Is he wearing the right type of suit? <extra_id_0>,This type of suit is blue.
+Is the man riding a white board? <extra_id_0>,The man is riding a white board.
+How many people are surfing? <extra_id_0>,There are [mask] people surfing.
+Is the woman surfing? <extra_id_0>,The woman is surfing.
+What kind of suit is he wearing? <extra_id_0>,The suit is [mask].
+What sport are they playing? <extra_id_0>,The sport is [mask].
+Color is the goaltenders shirt?,<BLANK>
+Color is the goaltenders shirt? <extra_id_0>,The goaltenders shirt is [mask].
+Where is number 8? <extra_id_0>,The number 8 is in [mask].
+How many kids are wearing black and white? <extra_id_0>,There are [mask] kids wearing black and white.
+Is the boy in the middle being attacked? <extra_id_0>,The boy in the middle is being attacked.
+Does the boy have his head stuck in the net? <extra_id_0>,The boy has his head stuck in the net.
+How many men are wearing hats? <extra_id_0>,There are [mask] men wearing hats.
+Does the guy on the right look happy? <extra_id_0>,The guy on the right looks happy.
+Are they coworkers or best friends? <extra_id_0>,They are best friends.
+What is in the glass in the lower right? <extra_id_0>,The glass in the lower right is [mask].
+The wall is made out of?,<BLANK>
+The wall is made out of? <extra_id_0>,The wall is made out of [mask].
+What does the sign in the background say? <extra_id_0>,The sign in the background says [mask].
+What color is the bus in the mirror? <extra_id_0>,The bus in the mirror is [mask].
+What is behind the mirror? <extra_id_0>,The mirror is behind [mask].
+What kind of passenger does the bus carry? <extra_id_0>,The bus carries [mask].
+How healthy does this meal look?,<BLANK>
+How healthy does this meal look? <extra_id_0>,The meal looks like [mask].
+Are there multiple vegetables on the plate? <extra_id_0>,There are multiple vegetables on the plate.
+What meat is used in the main dish? <extra_id_0>,The meat in the main dish is [mask].
+Is there meat on the plate? <extra_id_0>,There is no meat on the plate.
+What is the man reaching for? <extra_id_0>,The man is reaching for [mask].
+Is this a brand new phone? <extra_id_0>,This phone is brand new.
+What kind of id is that? <extra_id_0>,The id is [mask].
+What color is the phone? <extra_id_0>,The phone is [mask].
+Does this phone fold closed? <extra_id_0>,This phone folds closed.
+What language is the text on the sign? <extra_id_0>,The text on the sign is [mask].
+How many holes are on the phone case? <extra_id_0>,There are [mask] holes.
+What is the man holding? <extra_id_0>,The man is holding [mask].
+What does this phone case look like? <extra_id_0>,The phone case looks like [mask].
+What is the brand of the phone? <extra_id_0>,The brand of the phone is [mask].
+Is the phone broken? <extra_id_0>,The phone is broken.
+What does this controller go with? <extra_id_0>,The controller goes with [mask].
+Is the phone light on? <extra_id_0>,The phone light is on.
+Which hand is the person holding the phone in? <extra_id_0>,The [mask] hand is the person holding the phone in.
+Is the display on? <extra_id_0>,The display is on.
+Is the person using skype? <extra_id_0>,The person is using skype.
+How many phones do you see? <extra_id_0>,There are [mask] phones.
+Is the phone on? <extra_id_0>,The phone is on.
+Is the background clear? <extra_id_0>,The background is clear.
+What brand is the phone? <extra_id_0>,The phone is [mask].
+What kind of phone is this? <extra_id_0>,The phone is [mask].
+What is the person holding in their hand? <extra_id_0>,The person is holding [mask].
+What is the person holding? <extra_id_0>,The person is holding [mask].
+Is this an inside stadium? <extra_id_0>,This is an inside stadium.
+Is the stadium crowded? <extra_id_0>,The stadium is crowded.
+Is the stadium full? <extra_id_0>,The stadium is full.
+Is there a baseball player holding a bat? <extra_id_0>,This baseball player is holding a bat.
+Is this bathroom all white? <extra_id_0>,This bathroom is all white.
+Has the bathroom been renovated recently? <extra_id_0>,The bathroom has been renovated recently.
+What's on the other side of the shower curtain? <extra_id_0>,The other side of the shower curtain is [mask].
+Are there towels on the ground? <extra_id_0>,There are towels on the ground.
+What color is the shower curtain? <extra_id_0>,The color of the shower curtain is [mask].
+Does this look clean? <extra_id_0>,This food looks clean.
+Where is the shower located? <extra_id_0>,The shower is located in [mask].
+Is the shower curtain open? <extra_id_0>,The shower curtain is open.
+How many cookies can be seen? <extra_id_0>,There are [mask] cookies visible.
+What color are the dishes? <extra_id_0>,The color of the dishes is [mask].
+What is the green stuff? <extra_id_0>,The green stuff is [mask].
+Does this bike have training wheels? <extra_id_0>,This bike does not have training wheels.
+How many girls are visible? <extra_id_0>,There are [mask] girls visible.
+Is the picnic table red? <extra_id_0>,The picnic table is red.
+Is this a clean room? <extra_id_0>,This room is clean.
+How many colors are in the tile? <extra_id_0>,There are [mask] colors in the tile.
+What is the floor made of? <extra_id_0>,The floor is [mask].
+Is this bathroom clean? <extra_id_0>,This bathroom is clean.
+Is the room clean? <extra_id_0>,The room is clean.
+What color is the water in the bathtub? <extra_id_0>,The water in the bathtub is [mask].
+Is there a mirror in the bathroom? <extra_id_0>,There is no mirror in the bathroom.
+What is the ratio of white tiles to blue? <extra_id_0>,The ratio of white tiles to blue is [mask].
+Is there a green plant in this room? <extra_id_0>,This room is green.
+What power tool is present? <extra_id_0>,The power tool is [mask].
+Is this room clean? <extra_id_0>,This room is clean.
+What fruit is present? <extra_id_0>,The fruit is [mask].
+What color are these mattresses? <extra_id_0>,The color of these mattresses is [mask].
+Which room is this? <extra_id_0>,The [mask] room is this.
+Where is the cat sitting? <extra_id_0>,The cat is sitting in [mask].
+What do you think the cat is looking at? <extra_id_0>,The cat is looking at [mask].
+Is the cat trying to catch a bird? <extra_id_0>,The cat is trying to catch a bird.
+What utensil is sitting next to the food? <extra_id_0>,The utensil is [mask].
+What is in the jug? <extra_id_0>,The jug is [mask].
+What is the name of this crusted food? <extra_id_0>,The name of this crusted food is [mask].
+What color are the items on the truck? <extra_id_0>,The items on the truck are [mask].
+Is the writing in French? <extra_id_0>,The writing is in French.
+Is this a traveling circus? <extra_id_0>,This is a traveling circus.
+What animal is on the flatbed? <extra_id_0>,The animal on the flatbed is [mask].
+What room of the house is this? <extra_id_0>,The room of the house is [mask].
+What is the floor made out of? <extra_id_0>,The floor is made out of [mask].
+What do you use the stove for? <extra_id_0>,The stove is for [mask].
+What is the batter wearing on his ankles? <extra_id_0>,The batter is wearing [mask].
+Are there long lenses? <extra_id_0>,There are long lenses.
+What is the crouching man in the mask called? <extra_id_0>,The crouching man is [mask].
+How many people are standing next to each other? <extra_id_0>,There are [mask] people standing next to each other.
+What are the two women carrying? <extra_id_0>,The two women are carrying [mask].
+What are these people holding? <extra_id_0>,The people are holding [mask].
+How many rackets? <extra_id_0>,There are [mask] rackets.
+How many people are in this photo? <extra_id_0>,There are [mask] people in this photo.
+What is the woman wearing on her neck? <extra_id_0>,The woman is wearing [mask].
+Is everyone wearing long sleeves? <extra_id_0>,Everyone is wearing long sleeves.
+What sports are they playing? <extra_id_0>,The sports are [mask].
+What is the approximate time period of this photo? <extra_id_0>,The approximate time period of this photo is [mask].
+How many girls are in the picture? <extra_id_0>,There are [mask] girls in the picture.
+Which two are actually playing? <extra_id_0>,The [mask] two are actually playing.
+Are the woman wearing short dresses? <extra_id_0>,The woman is wearing short dresses.
+Is the lady smiling? <extra_id_0>,The lady is smiling.
+Do they play for Red Sox? <extra_id_0>,This animal does not play for Red Sox.
+What are the ladies doing? <extra_id_0>,The ladies are doing [mask].
+"What three letter word, best describes the liquid container on the ground between the two people? <extra_id_0>",The liquid container is [mask].
+What does the wall say on the far left? <extra_id_0>,The wall on the far left say [mask].
+Is this a mixed race group? <extra_id_0>,This group is mixed race.
+Are these people getting reading to go play sports? <extra_id_0>,This person is not reading.
+Is there any females? <extra_id_0>,There are no females.
+How many people don't have a skateboard? <extra_id_0>,There are [mask] people.
+How many of the four main individuals are wearing baseball caps? <extra_id_0>,There are [mask] baseball caps.
+How many racquets? <extra_id_0>,There are [mask] racquets.
+What is the woman wearing? <extra_id_0>,The woman is wearing [mask].
+What type of photo is this? <extra_id_0>,The photo is [mask].
+Is this a shop? <extra_id_0>,This is a shop.
+What sport is this? <extra_id_0>,The sport is [mask].
+What are the people holding? <extra_id_0>,The people are holding [mask].
+How many legs are in the image? <extra_id_0>,There are [mask] legs in the image.
+What is the group of people holding in their hand? <extra_id_0>,The group of people is holding [mask].
+Are they happy? <extra_id_0>,This animal is happy.
+Is the game live or on television? <extra_id_0>,The game is live or on television.
+Are the trying to fix the train? <extra_id_0>,The train is not moving.
+What color is the locomotive? <extra_id_0>,The color of the locomotive is [mask].
+Is the train black? <extra_id_0>,The train is black.
+Is this an evening scene? <extra_id_0>,This is an evening scene.
+What color is the sky? <extra_id_0>,The sky is [mask].
+Is this a desert scene? <extra_id_0>,This is a desert scene.
+How many passengers does this bus carry? <extra_id_0>,There are [mask] passengers.
+Is this a city street? <extra_id_0>,This street is a city street.
+How would you call for more information about the bus?,<BLANK>
+How would you call for more information about the bus? <extra_id_0>,[mask].
+Which direction is the turn lane going? <extra_id_0>,The [mask] direction is the turn lane going.
+Is she wearing a bonnet? <extra_id_0>,She is wearing a bonnet.
+Was the woman's collar treated with starch? <extra_id_0>,The woman's collar was treated.
+What pattern does the woman have on? <extra_id_0>,The pattern is [mask].
+Where is this? <extra_id_0>,The location of this is [mask].
+Is it going to storm? <extra_id_0>,It is going to storm.
+What kind of animal is on the beach? <extra_id_0>,The animal on the beach is [mask].
+What is running across the beach? <extra_id_0>,The animal on the beach is [mask].
+How many open umbrellas are there on the beach? <extra_id_0>,There are [mask] open umbrellas.
+How many umbrellas do you see? <extra_id_0>,There are [mask] umbrellas.
+What is causing the smoke? <extra_id_0>,The cause of the smoke is [mask].
+How many striped objects are in the photo? <extra_id_0>,There are [mask] striped objects.
+What ethnicity is the man? <extra_id_0>,The man is [mask].
+What color is the carpet in the middle of the floor? <extra_id_0>,The carpet in the middle of the floor is [mask].
+Does this room have a low ceiling? <extra_id_0>,This room has a low ceiling.
+What color hat is this man wearing? <extra_id_0>,The man is wearing [mask].
+What color are the shoelaces? <extra_id_0>,The shoelaces are [mask].
+Is the man wearing shorts or pants? <extra_id_0>,The man is wearing shorts.
+Is a person wearing a hooded sweatshirt? <extra_id_0>,This person is wearing a sweatshirt.
+Is he wearing a helmet? <extra_id_0>,He is wearing a helmet.
+Which way is the man's hat facing? <extra_id_0>,The [mask] man's hat facing.
+What color is the guy's shirt? <extra_id_0>,The color of the guy's shirt is [mask].
+Where is the boy skateboarding? <extra_id_0>,The boy is skateboarding in [mask].
+What structure is in the background? <extra_id_0>,The structure in the background is [mask].
+What color is the man's hat? <extra_id_0>,The color of the man's hat is [mask].
+Where are yellow and black stripes? <extra_id_0>,The yellow and black stripes are in [mask].
+How are the men's legs positioned?,<BLANK>
+How are the men's legs positioned? <extra_id_0>,The men's legs are [mask].
+What is the dog wearing? <extra_id_0>,The dog is wearing [mask].
+Are both animals black and white? <extra_id_0>,Both animals are black and white.
+Do either of the animals look interested in the photo? <extra_id_0>,This animal does not look interested.
+What color is the disk? <extra_id_0>,The color of the disk is [mask].
+Where was picture taken? <extra_id_0>,The picture was taken in [mask].
+Is there a car nearby? <extra_id_0>,There is a car nearby.
+How many wooden barrels do you see? <extra_id_0>,There are [mask] wooden barrels.
+Is everyone drinking red wine? <extra_id_0>,Everyone is drinking red wine.
+Is the woman in the blue shirt wearing sunglasses? <extra_id_0>,The woman in the blue shirt is wearing sunglasses.
+Is there a photo effect on the image? <extra_id_0>,This image does not have photo effects.
+Where was picture made? <extra_id_0>,The picture was made in [mask].
+What animal is shown? <extra_id_0>,The animal on the beach is [mask].
+Who is in the background? <extra_id_0>,[mask] is in the background.
+What does the girl wear under her blue shorts? <extra_id_0>,The girl is wearing [mask].
+What sport are they playing? <extra_id_0>,The sport is [mask].
+Are there people in the water? <extra_id_0>,There are no people in the water.
+Where are the kites flying above? <extra_id_0>,The kites are flying above [mask].
+What color is the item in the middle? <extra_id_0>,The item in the middle is [mask].
+What is he doing? <extra_id_0>,The man is doing [mask].
+How many people? <extra_id_0>,There are [mask] people.
+Is the small elephant touching the big elephant with his trunk? <extra_id_0>,The big elephant is touching the small elephant.
+How many baby elephants are there? <extra_id_0>,There are [mask] baby elephants.
+How many elephants are there? <extra_id_0>,There are [mask] elephants.
+How many baby elephants are there? <extra_id_0>,There are [mask] baby elephants.
+Are these elephants in the wild? <extra_id_0>,These elephants are in the wild.
+Are they standing in a mud puddle? <extra_id_0>,They are standing in a mud puddle.
+Are they endangered? <extra_id_0>,This animal is endangered.
+Is the ground shades of brown/tan? <extra_id_0>,The ground is shades of brown.
+Is the cat asleep? <extra_id_0>,The cat is asleep.
+Is the cat fat? <extra_id_0>,The cat is fat.
+How many cats? <extra_id_0>,There are [mask] cats.
+What is the number on the lifeguard's chair? <extra_id_0>,The number on the lifeguard's chair is [mask].
+What color is the girl on the left's bikini bottom? <extra_id_0>,The girl on the left is wearing [mask].
+Are there green umbrellas? <extra_id_0>,There are green umbrellas.
+Is this a cow baptism? <extra_id_0>,This is a cow baptism.
+Are there cows in the herd? <extra_id_0>,There are no cows.
+What body of water are the animals in this picture bathing in? <extra_id_0>,The animals are bathing in [mask].
+Are the animals swimming? <extra_id_0>,The animals are swimming.
+How many horses are in the street? <extra_id_0>,There are [mask] horses in the street.
+How many horses are there? <extra_id_0>,There are [mask] horses.
+Are the horses trained? <extra_id_0>,The horses are trained.
+Are these horses the same color? <extra_id_0>,These horses are the same color.
+Is this a parade? <extra_id_0>,This is a parade.
+Is this picture in color? <extra_id_0>,This picture is in color.
+What is the man holding? <extra_id_0>,The man is holding [mask].
+Is there a child in the picture? <extra_id_0>,There is no child in the picture.
+How many men are pictured? <extra_id_0>,There are [mask] men pictured.
+Are the men on the cell phones talking to each other? <extra_id_0>,The men are not talking.
+What age is the man with the glasses? <extra_id_0>,The man with the glasses is [mask].
+What movie does this remind of you of? <extra_id_0>,The movie is [mask].
+How many people are shown? <extra_id_0>,There are [mask] people shown.
+Is the man wearing a tie? <extra_id_0>,The man is wearing a tie.
+How many people are on cell phones? <extra_id_0>,There are [mask] people on cell phones.
+Is the man looking up? <extra_id_0>,The man is looking up.
+Is that man wearing a watch? <extra_id_0>,This man is wearing a watch.
+What is cast? <extra_id_0>,Cast is [mask] is cast.
+What is on top of the skis? <extra_id_0>,The skis are on top of [mask].
+What is attached to the person's feet? <extra_id_0>,The person's feet are [mask].
+Was this picture taken at night? <extra_id_0>,This picture was taken at night.
+Is the man running? <extra_id_0>,The man is running.
+What color is the man's Hat? <extra_id_0>,The color of the man's Hat is [mask].
+Is the Frisbee moving left to right? <extra_id_0>,The Frisbee is moving left to right.
+Was this photo taken at a skatepark? <extra_id_0>,This photo was taken at skatepark.
+Is the man trying to catch a Frisbee? <extra_id_0>,The man is trying to catch it.
+What color is the man's shirt? <extra_id_0>,The color of the man's shirt is [mask].
+Isn't it to dark to play frisbee? <extra_id_0>,It is too dark to play frisbee.
+Is the Frisbee upside down? <extra_id_0>,The Frisbee is upside down.
+Which game are they playing? <extra_id_0>,Which game are they playing?
+What color is the frisbee? <extra_id_0>,The color of the frisbee is [mask].
+Are there any humans in this picture? <extra_id_0>,There are no humans in this picture.
+How many boats are in the water? <extra_id_0>,There are [mask] boats in the water.
+Is the water calm? <extra_id_0>,The water is calm.
+What transporting device is next to the river? <extra_id_0>,The transporting device is [mask].
+What color is the front boat? <extra_id_0>,The color of the front boat is [mask].
+How many boats are shown? <extra_id_0>,There are [mask] boats shown.
+What animal is on the boat? <extra_id_0>,The animal on the boat is [mask].
+How many different trees are in the picture? <extra_id_0>,There are [mask] different trees.
+Is the lake calm? <extra_id_0>,The lake is calm.
+Are there more than seven boats? <extra_id_0>,There are more than seven boats.
+Is the weather appropriate for boating? <extra_id_0>,The weather is appropriate for boating.
+What are the colors you see on the boat? <extra_id_0>,The colors on the boat are [mask].
+Would you like to visit there? <extra_id_0>,This is a nice place.
+Are there waves? <extra_id_0>,There are waves.[mask].
+Where is the bike? <extra_id_0>,The bike is in [mask].
+Is she wearing glasses? <extra_id_0>,She is wearing glasses.
+Did something bad happen here? <extra_id_0>,This animal did something bad.
+What color is the bike? <extra_id_0>,The color of the bike is [mask].
+What color is the bicycle? <extra_id_0>,The color of the bicycle is [mask].
+Is the vehicle used for delivery? <extra_id_0>,The vehicle used for delivery is not.
+What is on the back of the bike? <extra_id_0>,The bike is [mask].
+Where is a blue trash can? <extra_id_0>,The blue trash can is in [mask].
+What is the most bright color on the train? <extra_id_0>,The most bright color on the train is [mask].
+How many engines are there? <extra_id_0>,There are [mask] engines.
+How many cars are yellow? <extra_id_0>,There are [mask] cars yellow.
+Is this Los Angeles? <extra_id_0>,This is Los Angeles.
+What season is it? <extra_id_0>,The season is [mask].
+What color is the gate? <extra_id_0>,The color of the gate is [mask].
+What does the license plate say? <extra_id_0>,The license plate says [mask].
+Is this bike moving? <extra_id_0>,This bike is moving.
+How many bikes are there? <extra_id_0>,There are [mask] bikes.
+What material is the fence made out of? <extra_id_0>,The fence is made out of [mask].
+What is the word that comes after golden? <extra_id_0>,The word that comes after golden is [mask].
+What type of potatoes are ready to cook? <extra_id_0>,The type of potatoes are [mask].
+What type of meat is shown? <extra_id_0>,The meat is [mask].
+Is this a lunchbox? <extra_id_0>,This is a lunchbox.
+How many different sections/portions of food? <extra_id_0>,There are [mask] different sections.
+What beverage is in the white mug? <extra_id_0>,The beverage in the white mug is [mask].
+How many calories? <extra_id_0>,There are [mask] calories.
+What color is the bowl? <extra_id_0>,The color of the bowl is [mask].
+Are those worms on the bottom? <extra_id_0>,The worms are on the bottom.
+Are those drinks on Heineken coasters? <extra_id_0>,These drinks are on Heineken coasters.
+Are the cars in motion? <extra_id_0>,The cars are in motion.
+What color is the light? <extra_id_0>,The color of the light is [mask].
+Is this street lit up? <extra_id_0>,This street is lit up.
+What time of day is this? <extra_id_0>,It is [mask] at [mask].
+Is the traffic signal red? <extra_id_0>,The traffic signal is red.
+What time was this taken? <extra_id_0>,The time was taken at [mask].
+Where does this picture take place? <extra_id_0>,The picture takes place in [mask].
+Where are the poles? <extra_id_0>,The poles are in [mask].
+Is it sunny? <extra_id_0>,The sky is sunny.
+What is on the man's head? <extra_id_0>,The man's head is [mask].
+Is this an old photo? <extra_id_0>,This photo is old.
+What are the people doing? <extra_id_0>,The people are doing [mask].
+What is the person carrying on their back? <extra_id_0>,The person is carrying [mask].
+Is this a modern photo? <extra_id_0>,This photo is modern.
+What color is the person's' jacket? <extra_id_0>,The person's' jacket is [mask].
+Is he carrying skis on his back? <extra_id_0>,He is not carrying skis.
+Are there any trees pictured? <extra_id_0>,There are no trees pictured.
+What is the man doing? <extra_id_0>,The man is doing [mask].
+Is the skier traveling slowly? <extra_id_0>,The skier is traveling slowly.
+How many people? <extra_id_0>,There are [mask] people.
+What sport is the man participating in? <extra_id_0>,The man is participating in [mask].
+What color is the ground the person is walking on? <extra_id_0>,The ground is [mask].
+What type of pasta meal is on the table? <extra_id_0>,The pasta meal is [mask].
+Is this a Japanese meal? <extra_id_0>,This meal is Japanese.
+What color is the dish on the upper left? <extra_id_0>,The dish on the upper left is [mask].
+Are there green beans on the table? <extra_id_0>,There are green beans on the table.
+What furniture is the dog standing on? <extra_id_0>,The dog is standing on [mask].
+How many people are on the benches? <extra_id_0>,There are [mask] people on the benches.
+Are the animals in an enclosure? <extra_id_0>,The animals are not in an enclosure.
+Are the dogs tethered to each other? <extra_id_0>,The dogs are tethered.
+How many dogs? <extra_id_0>,There are [mask] dogs.
+How many people are on the plane? <extra_id_0>,There are [mask] people on the plane.
+Is this plane for commercial flights? <extra_id_0>,This plane is for commercial flights.
+What is on the mountain tops? <extra_id_0>,The mountain tops are [mask].
+Is this picture taken outside? <extra_id_0>,This picture was taken outside.
+What are the zebras doing? <extra_id_0>,The zebras are doing [mask].
+Does the grass look green? <extra_id_0>,The grass looks green.
+How many zebras in the field? <extra_id_0>,There are [mask] zebras.
+What's is the zebra doing in this picture? <extra_id_0>,The zebra is doing [mask].
+Are the trees tall enough to provide shade? <extra_id_0>,The trees are tall enough.
+What are they doing? <extra_id_0>,They are doing [mask].
+Is the zebra eating? <extra_id_0>,The zebra is eating.
+How many elephants are here? <extra_id_0>,There are [mask] elephants.
+What animals are these? <extra_id_0>,The animals are [mask].
+What color are the animals? <extra_id_0>,The animals are [mask].
+Is this a roast beef sandwich? <extra_id_0>,This is a roast beef sandwich.
+What fruit is beside the sandwich? <extra_id_0>,The fruit is [mask].
+Are some of these food items likely to require their eaters use a napkin afterwards? <extra_id_0>,This food item requires a napkin.
+Is the plane in motion? <extra_id_0>,The plane is in motion.
+What does the plane's tail read? <extra_id_0>,The tail of the plane reads [mask].
+What country is the airline based out of? <extra_id_0>,The airline is based out of [mask].
+What airline is this plane flying? <extra_id_0>,The airline is [mask].
+What are the lights from? <extra_id_0>,The lights are from [mask].
+What is Bristol? <extra_id_0>,The city of Bristol is [mask].
+What state is this? <extra_id_0>,The state is [mask].
+What fruit is on the table? <extra_id_0>,The fruit on the table is [mask].
+How many men are wearing red tanks? <extra_id_0>,There are [mask] men wearing red tanks.
+What is keeping the bananas shaded? <extra_id_0>,The bananas are [mask].
+What is this baby holding? <extra_id_0>,The baby is holding [mask].
+Is the baby brushing teeth? <extra_id_0>,The baby is brushing teeth.
+What color is the object that the baby is holding? <extra_id_0>,The object that the baby is holding is [mask].
+How many feet is the child standing on? <extra_id_0>,There are [mask] feet.
+What is the baby wearing? <extra_id_0>,The baby is wearing [mask].
+Is the refrigerator door open? <extra_id_0>,The refrigerator door is open.
+Who is not wearing white pants? <extra_id_0>,[mask] is not wearing white pants.
+How many females are in the picture? <extra_id_0>,There are [mask] females.
+Are these people friends? <extra_id_0>,These people are friends.
+How many people are there? <extra_id_0>,There are [mask] people there.
+How many people have hats on their head? <extra_id_0>,There are [mask] people wearing hats.
+Is this at the zoo? <extra_id_0>,This animal is at the zoo.
+Which is the tallest animal in the photo? <extra_id_0>,The [mask] is the tallest animal in the photo.
+What color is the door? <extra_id_0>,The door is [mask].
+Where is the tabasco sauce? <extra_id_0>,The tabasco sauce is in [mask].
+What type of food are they preparing? <extra_id_0>,The food is [mask].
+What pattern is the dress? <extra_id_0>,The pattern of the dress is [mask].
+What color is the woman? <extra_id_0>,The color of the woman is [mask].
+Is this food for sale? <extra_id_0>,This food is not for sale.
+Are the cars parked on the street? <extra_id_0>,The cars are parked on the street.
+What does the sign say? <extra_id_0>,The sign says [mask].
+Is the motel sign vertical or horizontal? <extra_id_0>,The motel sign is vertical.
+Is the person in pink old enough to drive a car? <extra_id_0>,The person in pink is old.
+Is the girl going to hit her dad with the frisbee? <extra_id_0>,The girl is going to hit her dad.
+What color is the frisbee? <extra_id_0>,The color of the frisbee is [mask].
+What type of animal is on the field? <extra_id_0>,The animal on the field is [mask].
+Was this photo taken in the fall? <extra_id_0>,This photo was taken in the fall.
+How many sheep are visible? <extra_id_0>,There are [mask] sheep visible.
+What are the sheep doing? <extra_id_0>,The sheep are doing [mask].
+What color is the sheep? <extra_id_0>,The color of the sheep is [mask].
+What's in the fruit bin? <extra_id_0>,The fruit bin is [mask].
+What is this girl looking inside? <extra_id_0>,The girl is looking inside [mask].
+Is this person holding a hot dog or candy? <extra_id_0>,This person is holding a candy.
+What kind of fruit is in the photo? <extra_id_0>,The fruit in the photo is [mask].
+What is being taken out of the fridge? <extra_id_0>,What is being taken out of the fridge is [mask].
+What color is the girl's dress? <extra_id_0>,The color of the girl's dress is [mask].
+Where was the photo taken? <extra_id_0>,The photo was taken in [mask].
+Is the child holding a bottle or a can? <extra_id_0>,The child is holding a bottle.
+What is the girl getting? <extra_id_0>,The girl is getting [mask].
+What color is the cat? <extra_id_0>,The color of the cat is [mask].
+What is the significant feature on the tabby cat? <extra_id_0>,The significant feature on the tabby cat is [mask].
+What is the car lying under? <extra_id_0>,The car is lying under [mask].
+What is the cat laying on? <extra_id_0>,The cat is lying on [mask].
+What animal is this? <extra_id_0>,The animal on the beach is [mask].
+What color are the cats eyes? <extra_id_0>,The cats eyes are [mask].
+Will anyone be snowboarding? <extra_id_0>,This person will not be snowboarding.
+Name object in front of lady?,<BLANK>
+Name object in front of lady? <extra_id_0>,Name object in front of lady.
+What color are the ski poles the person on the right is holding? <extra_id_0>,The color of the ski poles is [mask].
+How many people are wearing eye protection? <extra_id_0>,There are [mask] people wearing eye protection.
+Have there been skiers on the same route before them? <extra_id_0>,This route has not been skied.
+Who is with the man? <extra_id_0>,The man is with [mask].
+Are their shadows in front of the skiers? <extra_id_0>,The skiers are not shadows.
+Are they wearing glasses? <extra_id_0>,They are wearing glasses.
+What is covering the ground? <extra_id_0>,The ground is [mask].
+Is the snow deep? <extra_id_0>,The snow is deep.
+Where direction are the skiers looking? <extra_id_0>,The skiers are looking in [mask].
+Are both these skiers adults? <extra_id_0>,Both these skiers are adults.
+What is in the snow? <extra_id_0>,The snow is [mask].
+What color is the girl on the left's hat? <extra_id_0>,The girl on the left is wearing [mask].
+Is the mountain rocky? <extra_id_0>,The mountain is rocky.
+Which two clothing items are not black? <extra_id_0>,The [mask] two clothing items are not black.
+Which man has his skies facing a different way than the other men? <extra_id_0>,The [mask] has his skies facing a different way.
+Are these professional players? <extra_id_0>,These players are professional players.
+What sport are they playing? <extra_id_0>,The sport is [mask].
+Are they on the same team? <extra_id_0>,They are on the same team.
+How many people are in the picture? <extra_id_0>,There are [mask] people in the picture.
+What team do the people play for? <extra_id_0>,The people play for [mask].
+Does the grass need watering? <extra_id_0>,The grass does not need watering.
+What color are their hats? <extra_id_0>,The hats are [mask].
+What are the two boys doing? <extra_id_0>,The two boys are doing [mask].
+What color shirts are the baseball players wearing? <extra_id_0>,The baseball players are wearing [mask].
+What sport are the kids playing? <extra_id_0>,The kids are playing [mask].
+Are the men on the same team? <extra_id_0>,The men are on the same team.
+How many people are on the ground? <extra_id_0>,There are [mask] people on the ground.
+What is he throwing? <extra_id_0>,The man is throwing [mask].
+How many people are standing in the grass? <extra_id_0>,There are [mask] people standing in the grass.
+What team shirt is he wearing? <extra_id_0>,The team shirt is [mask].
+Do the players all have the same color shirts? <extra_id_0>,The players all have the same color shirt.
+Are these kids on the same team? <extra_id_0>,These kids are on the same team.
+Is the kid running? <extra_id_0>,The kid is running.
+Are the players of the same race? <extra_id_0>,The players are of the same race.
+What color of shirt is this person wearing? <extra_id_0>,The person is wearing [mask].
+Is the pitcher in motion? <extra_id_0>,The pitcher is in motion.
+What color most stands out? <extra_id_0>,The color most stands out is [mask].
+Is one person noticeably taller than the other? <extra_id_0>,This person is noticeably taller.
+Is the wind blowing? <extra_id_0>,The wind is blowing.
+Does the boy's shirt and socks match? <extra_id_0>,The boy's shirt and socks match.
+What animals are among the trees? <extra_id_0>,The animals are [mask].
+Why are the people on the elephants? <extra_id_0>,The people are on the elephants because [mask].
+Are the people on the elephants tourists? <extra_id_0>,The people on the elephants are tourists.
+What color is the person on the elephant in the back wearing? <extra_id_0>,The person on the elephant in the back is [mask].
+Which of the boy's feet are in the air? <extra_id_0>,Which of the boy's feet are in the air?
+How many adults are in the picture? <extra_id_0>,There are [mask] adults in the picture.
+What game is being played? <extra_id_0>,The game is [mask].
+What is she holding? <extra_id_0>,The woman is holding [mask].
+Is this in someone's home? <extra_id_0>,This is in someone's home.
+Does this little girl have on jewelry? <extra_id_0>,This little girl has on jewelry.
+Is the girl blonde? <extra_id_0>,The girl is blonde.
+What kind of birds are in the photo? <extra_id_0>,The bird in the photo is [mask].
+Are you afraid of birds? <extra_id_0>,This animal is afraid of birds.
+What is the bird doing to the flower? <extra_id_0>,The bird is doing to the flower [mask].
+Is the tree in bloom? <extra_id_0>,The tree is in bloom.
+Is this a real bird? <extra_id_0>,This bird is real.
+Why are some of the leaves brown? <extra_id_0>,The leaves are brown because [mask].
+What does the female of this species look like? <extra_id_0>,The female of this species is [mask].
+What is the green on the right? <extra_id_0>,The green on the right is [mask].
+What color are the eyes of this bird? <extra_id_0>,The eyes of this bird are [mask].
+Is this a hummingbird? <extra_id_0>,This bird is a hummingbird.
+What is the vegetable to the right? <extra_id_0>,The vegetable to the right is [mask].
+Is there a variety? <extra_id_0>,There is a variety.
+Which food is a pepper? <extra_id_0>,Which food is a pepper?
+How  many vegetables orange?,<BLANK>
+How  many vegetables orange? <extra_id_0>,How many vegetables are orange?
+What is the main color of the kitchen? <extra_id_0>,The main color of the kitchen is [mask].
+Is this kitchen tidy? <extra_id_0>,This kitchen is tidy.
+What color is the countertop? <extra_id_0>,The countertop is [mask].
+Does the kitchen have a triangle shape for cooking? <extra_id_0>,The kitchen has a triangle shape.
+Did someone get coffee to go? <extra_id_0>,This person got coffee to go.
+Is the kitchen dirty? <extra_id_0>,The kitchen is dirty.
+What kind of game are these people playing? <extra_id_0>,The game is [mask].
+What color is the shirt of the woman closest to the front of the picture? <extra_id_0>,The shirt of the woman closest to the front is [mask].
+Do you think all the people here are playing the game? <extra_id_0>,This game is not played.
+Is the woman in the back ignoring the others? <extra_id_0>,The woman in the back is ignoring.
+Are these people having fun? <extra_id_0>,These people are having fun.
+Who is wearing the white shirt with Colorado on the front? <extra_id_0>,[mask] is wearing the shirt.
+What is the seagull standing by? <extra_id_0>,The seagull is standing by [mask].
+Is this likely a farm animal? <extra_id_0>,This animal is likely a farm animal.
+How many birds are there? <extra_id_0>,There are [mask] birds.
+What type of bird is this? <extra_id_0>,The bird on the beach is [mask].
+What kind of bird is this? <extra_id_0>,The bird on the beach is [mask].
+Is the bird near water? <extra_id_0>,The bird is near water.
+Is the ground soft? <extra_id_0>,The ground is soft.
+What color is the fauna? <extra_id_0>,The color of the fauna is [mask].
+How many bears are pictured? <extra_id_0>,There are [mask] bears.
+What is the man holding? <extra_id_0>,The man is holding [mask].
+What number is on the post in the background? <extra_id_0>,The number on the post is [mask].
+What does this lady have on her feet? <extra_id_0>,The lady has [mask].
+What message is given to the skiers? <extra_id_0>,The message is given to the skiers.
+Is the woman the first to walk through  the snow? <extra_id_0>,The woman is the first to walk.
+What is leaning over the sidewalk? <extra_id_0>,The animal on the sidewalk is [mask].
+What is causing the shadows on the snow? <extra_id_0>,The cause of the shadows is [mask].
+What are they holding? <extra_id_0>,They are holding [mask].
+Is the ball red? <extra_id_0>,The ball is red.
+What sport is being played? <extra_id_0>,The sport is [mask].
+Is there a balloon on the table? <extra_id_0>,There is a balloon on the table.
+Have the men started eating? <extra_id_0>,The men have started eating.
+Is this a birthday party? <extra_id_0>,This is a birthday party.
+Is it cold? <extra_id_0>,The temperature is cold.
+How many tracks are in the snow? <extra_id_0>,There are [mask] tracks.
+Is there a person? <extra_id_0>,There is a person.
+Is the crowd attentive? <extra_id_0>,The crowd is attentive.
+What color are the umpires shoes? <extra_id_0>,The umpires shoes are [mask].
+What number is the batter? <extra_id_0>,The number of the batter is [mask].
+What team is playing? <extra_id_0>,The team is playing [mask].
+What game is he playing? <extra_id_0>,The game is [mask].
+What brand shoes is he wearing? <extra_id_0>,The brand of shoes is [mask].
+Which leg is extended forward? <extra_id_0>,The [mask] leg is extended forward.
+Are there any empty tracks to the right of the train? <extra_id_0>,There are no empty tracks.
+How many trains are on the tracks? <extra_id_0>,There are [mask] trains on the tracks.
+Is it dangerous standing where the picture was taken? <extra_id_0>,This picture was taken.
+Is the train driving at high speed? <extra_id_0>,The train is driving at high speed.
+Is there a supermarket in the picture? <extra_id_0>,There is no supermarket in the picture.
+Is the sun shining? <extra_id_0>,The sun is shining.
+What is the name of the street? <extra_id_0>,The street is [mask].
+What street is shown? <extra_id_0>,The street is [mask].
+Are the cars similar? <extra_id_0>,The cars are similar.
+What are parked along the street in the background? <extra_id_0>,The cars are parked along the street.
+What color are the leaves on the tree? <extra_id_0>,The leaves on the tree are [mask].
+Is it summer? <extra_id_0>,The sky is blue.
+"What does sign with ""P"" in it mean? <extra_id_0>","The sign with ""P"" in it means [mask]."
+Has it snowed there? <extra_id_0>,It has snowed there.
+How many cars are parked on the right side of the road? <extra_id_0>,There are [mask] cars parked.
+What is the name of the street depicted in the picture? <extra_id_0>,The street depicted in the picture is [mask].
+Is winter wind often trapped between buildings this large? <extra_id_0>,This building is large.
+What color is the man's tie? <extra_id_0>,The color of the man's tie is [mask].
+Does he have a beard? <extra_id_0>,This animal does not have a beard.
+What does the man have on his shoulder? <extra_id_0>,The man has [mask] on his shoulder.
+What color is the bus? <extra_id_0>,The color of the bus is [mask].
+Are the rims on the bus gold? <extra_id_0>,The rims are gold.
+What is the woman holding? <extra_id_0>,The woman is holding [mask].
+What is the nun doing in this scene? <extra_id_0>,The nun is doing [mask].
+Is there pasta in the photo? <extra_id_0>,There is pasta in the photo.
+What is the name of the beer? <extra_id_0>,The name of the beer is [mask].
+Is the bottle glass? <extra_id_0>,The bottle is glass.
+What sponsor lines the court? <extra_id_0>,The sponsor is [mask].
+What color is the man's shirt? <extra_id_0>,The color of the man's shirt is [mask].
+What color is the court? <extra_id_0>,The color of the court is [mask].
+What color is the tennis court? <extra_id_0>,The tennis court is [mask].
+Are all the seats filled? <extra_id_0>,All the seats are filled.
+What kind of dog is this? <extra_id_0>,The dog on the beach is [mask].
+Is there grass? <extra_id_0>,The grass is green.
+What color is the frisbee? <extra_id_0>,The color of the frisbee is [mask].
+Is the puppy small enough to lay inside the frisbee? <extra_id_0>,The puppy is small enough.
+Is the frisbee in good shape? <extra_id_0>,The frisbee is in good shape.
+What is on the ground in the cave? <extra_id_0>,The ground in the cave is [mask].
+What is the animal? <extra_id_0>,The animal is [mask].
+Is there a cat in the picture? <extra_id_0>,This cat is not in the picture.
+Are the animals on flat ground? <extra_id_0>,The animals are on flat ground.
+How many cows are outside? <extra_id_0>,There are [mask] cows outside.
+What type of animal is pictured? <extra_id_0>,The animal on the beach is [mask].
+Is this a forested area? <extra_id_0>,This area is forested.
+Is the plane flying straight? <extra_id_0>,The plane is flying straight.
+What word is displayed near the front of the jet? <extra_id_0>,The word displayed near the front of the jet is [mask].
+How many planes are there? <extra_id_0>,There are [mask] planes.
+Is this plane flying near a coastline? <extra_id_0>,This plane is flying near a coastline.
+Does this food look burnt? <extra_id_0>,This food looks burnt.
+What cafe is this at? <extra_id_0>,The cafe is at [mask].
+What is placed on the newspaper in the picture? <extra_id_0>,The newspaper is placed on [mask].
+Is there a flip phone in the photo? <extra_id_0>,This photo is not flip phone.
+What time does the cell phone say? <extra_id_0>,The cell phone says [mask].
+What brand phone is this? <extra_id_0>,The brand phone is [mask].
+How many people are in this picture? <extra_id_0>,There are [mask] people in this picture.
+What color light are the traffic lights displaying? <extra_id_0>,The traffic lights are displaying [mask].
+What even are they celebrating? <extra_id_0>,The even is [mask].
+What is the date of the event? <extra_id_0>,The date of the event is [mask].
+What is the man's hair color? <extra_id_0>,The man's hair color is [mask].
+What color is the wave behind the man? <extra_id_0>,The wave behind the man is [mask].
+What is the man holding in his right hand? <extra_id_0>,The man is holding [mask].
+Is this a desert item? <extra_id_0>,This item is a desert item.
+What utensil is pictured? <extra_id_0>,The utensil is [mask].
+What decoration is on the rim of the plate? <extra_id_0>,The decoration on the rim of the plate is [mask].
+How many flags are there? <extra_id_0>,There are [mask] flags.
+Is that a fishing pole off the deck in the back? <extra_id_0>,The deck is blue.
+Are there clouds in the sky? <extra_id_0>,The sky is blue.
+Are the boats all the same color? <extra_id_0>,The boats are all the same color.
+What is the cat laying on? <extra_id_0>,The cat is lying on [mask].
+What is covering the floor? <extra_id_0>,The floor is [mask].
+What color of carpet is that? <extra_id_0>,The carpet is [mask].
+How many hats is she wearing? <extra_id_0>,There are [mask] hats.
+What is parked on the street? <extra_id_0>,The car on the street is [mask].
+Is this woman riding a Harley? <extra_id_0>,This woman is riding a Harley.
+Is she leaning on the bike? <extra_id_0>,She is leaning on the bike.
+Is the bike expensive? <extra_id_0>,The bike is expensive.
+Is this person riding a motorcycle? <extra_id_0>,This person is riding a motorcycle.
+What color is the motorbike? <extra_id_0>,The color of the motorbike is [mask].
+What color are the bowls? <extra_id_0>,The bowls are [mask].
+What color are the flowers? <extra_id_0>,The color of the flowers is [mask].
+What is behind the frosted glass? <extra_id_0>,The frosted glass is [mask].
+Has the food on the left plate been cooked? <extra_id_0>,The food on the left plate has been cooked.
+Would you consider this to be a healthy meal? <extra_id_0>,This meal is not healthy.
+What is the green vegetable? <extra_id_0>,The green vegetable is [mask].
+What kind of protein is on the sandwich? <extra_id_0>,The sandwich is [mask].
+Is that raspberry dressing? <extra_id_0>,The raspberry dressing is red.
+Is there lettuce in the hot dog? <extra_id_0>,There is no lettuce in the hot dog.
+What is in middle of sandwich on plate? <extra_id_0>,The sandwich is [mask].
+What is their in the plate? <extra_id_0>,The plate is [mask].
+Are there potato chips on the plate? <extra_id_0>,There are potato chips on the plate.
+What is the color of the horse? <extra_id_0>,The color of the horse is [mask].
+Does the horse have a white strip? <extra_id_0>,The horse has a white strip.
+How long is that strip of white?,<BLANK>
+How long is that strip of white? <extra_id_0>,The strip of white is long.
+What color are the towels hanging on the dishwasher? <extra_id_0>,The towels hanging on the dishwasher are [mask].
+How many appliances? <extra_id_0>,There are [mask] appliances.
+Is this a fancy kitchen? <extra_id_0>,This kitchen is fancy.
+What brand of coffee has been used? <extra_id_0>,The brand of coffee has been used is [mask].
+What kind of flowers are on the table? <extra_id_0>,The flowers on the table are [mask].
+What is hanging from the corner of the ceiling? <extra_id_0>,The hanging from the corner of the ceiling is [mask].
+How many vases are on the table? <extra_id_0>,There are [mask] vases on the table.
+Is this man casting a shadow? <extra_id_0>,This man is casting a shadow.
+Are any of the people wearing goggles? <extra_id_0>,This animal does not produce dairy products.
+Is this person color coordinated? <extra_id_0>,This person is color coordinated.
+What landforms are in the background? <extra_id_0>,The landforms are [mask].
+Does he have more hair on his chin on his head? <extra_id_0>,This animal has more hair on his head.
+What is the man holding in his hands? <extra_id_0>,The man is holding [mask].
+Is he standing or sitting? <extra_id_0>,He is standing or sitting.
+What is the man trying to shield his eyes from? <extra_id_0>,The man is trying to shield his eyes from [mask].
+What color do the walls look like? <extra_id_0>,The walls look like [mask].
+Is he wearing a shirt? <extra_id_0>,He is wearing a shirt.
+What is covering his eyes? <extra_id_0>,The man is wearing [mask].
+What is the game these people are playing? <extra_id_0>,The game is [mask].
+What is on his face? <extra_id_0>,His face is [mask].
+Are the scissors broken? <extra_id_0>,The scissors are broken.
+What are these people doing? <extra_id_0>,The people are doing [mask].
+What kind of animal is on the couch? <extra_id_0>,The animal on the couch is [mask].
+What is pictured on the TV? <extra_id_0>,The TV is pictured as [mask].
+What color is the blanket under the dog? <extra_id_0>,The blanket under the dog is [mask].
+What is holding the signs to the wooden pole? <extra_id_0>,The signs are [mask].
+What is this woman wearing on her wrist? <extra_id_0>,The woman is wearing [mask].
+What is the lady holding? <extra_id_0>,The lady is holding [mask].
+Is the tennis net purple? <extra_id_0>,The tennis net is purple.
+What is the green fence made of? <extra_id_0>,The green fence is made of [mask].
+Is the man in red trying to catch a ball? <extra_id_0>,The man in red is trying to catch.
+"Is the person, in black, serving? <extra_id_0>","The person, in black, serving."
+How often do you take selfies like this?,<BLANK>
+How often do you take selfies like this? <extra_id_0>,How often do you take selfies?
+What is looking out of the window of the car? <extra_id_0>,The car is looking out of the window.
+What is showing in the mirror? <extra_id_0>,The mirror is showing [mask].
+What is the reflection in? <extra_id_0>,The reflection is in [mask].
+What is the man doing with the cell phone? <extra_id_0>,The man is using [mask].
+Is texting legal when driving? <extra_id_0>,This is not legal.
+How many cars can be seen in this picture? <extra_id_0>,There are [mask] cars visible.
+What is hanging out of the car window? <extra_id_0>,The car window is [mask].
+What is in the mirror? <extra_id_0>,The mirror is [mask].
+What is the yellow stuff in a bowl? <extra_id_0>,The yellow stuff in a bowl is [mask].
+How many butter knives are shown? <extra_id_0>,There are [mask] butter knives shown.
+What would be in the small white pitcher? <extra_id_0>,The pitcher would be [mask].
+Does the horse want to escape his human masters? <extra_id_0>,The horse does not want to escape.
+What color is the horse? <extra_id_0>,The color of the horse is [mask].
+How many cars are on the street? <extra_id_0>,There are [mask] cars on the street.
+Is there ketchup on the food? <extra_id_0>,This food does not have ketchup.
+What flavor is the beverage? <extra_id_0>,The flavor of the beverage is [mask].
+Is there a napkin? <extra_id_0>,There is a napkin.
+Is this a healthy meal? <extra_id_0>,This meal is healthy.
+Is the woman choking on something? <extra_id_0>,The woman is choking.
+Is this a bedroom? <extra_id_0>,This is a bedroom.
+What is she eating? <extra_id_0>,She is eating [mask].
+What number is on the ear tag on the left? <extra_id_0>,The number on the ear tag is [mask].
+Are they behind a fence? <extra_id_0>,This animal is behind a fence.
+What color are these animals? <extra_id_0>,The color of these animals is [mask].
+What is the man doing? <extra_id_0>,The man is doing [mask].
+Is there a cow on the beach? <extra_id_0>,There is a cow on the beach.
+Is there an island in the background? <extra_id_0>,The island is blue.
+Are there rocks in the water? <extra_id_0>,There are rocks in the water.
+Did the man hit the ball? <extra_id_0>,The man hit the ball.
+What is the sex of the player? <extra_id_0>,The sex of the player is [mask].
+What are they playing? <extra_id_0>,The children are playing [mask].
+What is on the man's back? <extra_id_0>,The man's back is [mask].
+Is this man wearing glasses? <extra_id_0>,This man is wearing glasses.
+What is this man holding in his right hand? <extra_id_0>,The man is holding [mask].
+What color is his shirt? <extra_id_0>,The color of his shirt is [mask].
+What is the man holding? <extra_id_0>,The man is holding [mask].
+What color shirt is this man wearing? <extra_id_0>,The man is wearing [mask].
+What is the man holding with the left hand? <extra_id_0>,The man is holding [mask].
+Is this train yard in use? <extra_id_0>,This train yard is in use.
+Where is the tall palm tree? <extra_id_0>,The tall palm tree is in [mask].
+What color is the tallest building visible in the background? <extra_id_0>,The tallest building is [mask].
+What color is the carpet leading to the bathroom? <extra_id_0>,The carpet leading to the bathroom is [mask].
+Is there where I go if I need to pee? <extra_id_0>,This animal does not pee.
+What is the black tubing on the wall used for? <extra_id_0>,The black tubing on the wall is [mask].
+"Aside from white, what is the other dominant color of the bathroom interior?",<BLANK>
+"Aside from white, what is the other dominant color of the bathroom interior? <extra_id_0>",The bathroom interior is [mask].
+Is this a toy shop? <extra_id_0>,This is a toy shop.
+Can you see the shop's name? <extra_id_0>,The shop's name is _____.
+What are the animals in the pictures in the background? <extra_id_0>,The animals in the background are [mask].
+What color is the left chair? <extra_id_0>,The color of the left chair is [mask].
+What holiday does this seem to suggest? <extra_id_0>,The holiday is [mask].
+Is this an umbrella shop? <extra_id_0>,This is an umbrella shop.
+Is there a teddy bear wearing a raincoat in this scene? <extra_id_0>,This scene is not rainy.
+What animal lives in the cages? <extra_id_0>,The animal in the cages is [mask].
+What kind of food is shown? <extra_id_0>,The food is [mask].
+Are there any jelly donuts? <extra_id_0>,There are no jelly donuts.
+Is this food healthy? <extra_id_0>,This food is healthy.
+What is the letter on the racket? <extra_id_0>,The letter on the racket is [mask].
+What brand is the racket? <extra_id_0>,The brand of the racket is [mask].
+Is the tennis player jumping in the air? <extra_id_0>,The tennis player is jumping in the air.
+Does the man have any facial hair? <extra_id_0>,The man has no facial hair.
+Is there a stripe on the tennis players shorts? <extra_id_0>,The tennis players shorts are blue.
+What is the race of the tennis player? <extra_id_0>,The tennis player is [mask].
+What two objects shown can fly? <extra_id_0>,The two objects shown can fly [mask].
+How many people are by the window? <extra_id_0>,There are [mask] people by the window.
+What companies plane is in the window? <extra_id_0>,The company plane is [mask].
+What is flying? <extra_id_0>,The flying is [mask].
+Is the person looking at the bird or the planes? <extra_id_0>,The person is looking at the bird.
+Is this a whole banana? <extra_id_0>,This is a whole banana.
+What fruit is on the plate? <extra_id_0>,The fruit on the plate is [mask].
+Is this a lunch? <extra_id_0>,This is a lunch.
+Is the banana overripe? <extra_id_0>,The banana is overripe.
+How many pieces of fruit are on the plate? <extra_id_0>,There are [mask] pieces of fruit.
+How many clocks are on the tower? <extra_id_0>,There are [mask] clocks.
+What type of bus is on the right side of the picture? <extra_id_0>,The bus on the right side of the picture is [mask].
+What time does the clock have? <extra_id_0>,The clock has [mask].
+What country is this in? <extra_id_0>,The country is [mask].
+Can you tell what the clock says? <extra_id_0>,Can you tell what the clock says?
+What time is it? <extra_id_0>,It is [mask].
+What is shown in the background? <extra_id_0>,The background is [mask].
+What kind of transport is shown? <extra_id_0>,The transport is [mask].
+Is the person holding the cat married? <extra_id_0>,The person holding the cat is married.
+Is the person with the cat a man or woman? <extra_id_0>,The person with the cat is male.
+What color is the cat's collar? <extra_id_0>,The color of the cat's collar is [mask].
+What is on the man's lap? <extra_id_0>,The man's lap is [mask].
+What type of animal is that? <extra_id_0>,The animal on the beach is [mask].
+Are those small trees? <extra_id_0>,The trees are small.
+Is there anyone in the photo? <extra_id_0>,There is no one in the photo.
+Are there flowers in the photo? <extra_id_0>,There are flowers in the photo.
+How many surfers are in this photo? <extra_id_0>,There are [mask] surfers.
+How many surfers are there? <extra_id_0>,There are [mask] surfers.
+What color shirt is the surfer wearing? <extra_id_0>,The surfer is wearing [mask].
+What are the people doing? <extra_id_0>,The people are doing [mask].
+Are the waters calm? <extra_id_0>,The waters are calm.
+What is the man holding? <extra_id_0>,The man is holding [mask].
+What is the dog doing? <extra_id_0>,The dog is doing [mask].
+Is this outdoors? <extra_id_0>,This is outdoors.[mask].
+What color is the frisbee? <extra_id_0>,The color of the frisbee is [mask].
+How many wheels are in the air? <extra_id_0>,There are [mask] wheels in the air.
+Can this man fall down? <extra_id_0>,This man can fall down.
+Is this person wearing protective gear? <extra_id_0>,This person is wearing protective gear.
+How many buildings are there? <extra_id_0>,There are [mask] buildings.
+What is the man wearing? <extra_id_0>,The man is wearing [mask].
+What type of mirror is that? <extra_id_0>,The type of mirror is [mask].
+Is this an extra large pizza? <extra_id_0>,This pizza is extra large.
+Is there pepperoni on this pizza? <extra_id_0>,This pizza does not contain pepperoni.
+What is green? <extra_id_0>,The color of the grass is [mask].
+What snack is this? <extra_id_0>,The snack is [mask].
+Is the pizza sauce organic? <extra_id_0>,The pizza sauce is organic.
+What kind of food is this? <extra_id_0>,The food on the beach is [mask].
+What toppings are on the pizza? <extra_id_0>,The toppings on the pizza are [mask].
+Is this a reflection? <extra_id_0>,This is a reflection.
+What are the shingles made of? <extra_id_0>,The shingles are made of [mask].
+Is this a City Hall? <extra_id_0>,This is a City Hall.
+What kind of building is this? <extra_id_0>,The building is [mask].
+What is on top of the clock? <extra_id_0>,The clock is on top of [mask].
+How many of the cattle have horns? <extra_id_0>,There are [mask] cattle.
+How many cattle are in the picture? <extra_id_0>,There are [mask] cattle in the picture.
+What is the color of the smallest cow? <extra_id_0>,The color of the smallest cow is [mask].
+Are the cows the same color? <extra_id_0>,The cows are the same color.
+What animal is this? <extra_id_0>,The animal on the beach is [mask].
+How many of the animals shown are being raised for their meat? <extra_id_0>,There are [mask] animals shown.
+Are there three cows in the picture? <extra_id_0>,There are three cows in the picture.
