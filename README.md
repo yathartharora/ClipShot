@@ -85,4 +85,4 @@ The aim of the fusion and the subsequent training of the MLP is to create a syst
 
 ### Result reproduce
 
-Run the files 
+1. Run the jupyter notebooks ClipShot_AutomaticTemplateGeneration.ipynb & Dependency_Final_Parsing.ipynb to reproduce the results for TAP-C method template generation and answer filtering.
