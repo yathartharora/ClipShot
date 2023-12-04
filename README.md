@@ -83,6 +83,6 @@ Given two vectors $v_1$(representing the premise) and $v_2$ (representing the hy
 
 The aim of the fusion and the subsequent training of the MLP is to create a system that deeply understands the relationship between two pieces of information (the premise and hypothesis). During training, both of these are textual. But the ultimate goal is to challenge the system during testing by replacing the textual premise with an image. If the system can still accurately predict the relationship, then it shows that the model has effectively learned to bridge the gap between text and vision, achieving cross-modality understanding.
 
-### Result reproduce
+### Reproduce Results
 
 1. Run the jupyter notebooks ClipShot_AutomaticTemplateGeneration.ipynb & Dependency_Final_Parsing.ipynb to reproduce the results for TAP-C method template generation and answer filtering.
